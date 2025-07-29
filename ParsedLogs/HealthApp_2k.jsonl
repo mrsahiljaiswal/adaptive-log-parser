@@ -1,0 +1,1368 @@
+{"timestamp": "20171223-22:15:29:606", "level": "info", "message": "onStandStepChanged 3579"}
+{"timestamp": "20171223-22:15:29:615", "level": "info", "message": "onExtend:1514038530000 14 0 4"}
+{"timestamp": "20171223-22:15:29:633", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:15:29:635", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:15:29:635", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-22:15:29:635", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##6993##548365##8661##12266##27164404"}
+{"timestamp": "20171223-22:15:29:636", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7007##548365##8661##12361##27173954"}
+{"timestamp": "20171223-22:15:29:636", "level": "info", "message": "onStandStepChanged 3579"}
+{"timestamp": "20171223-22:15:29:645", "level": "info", "message": "calculateCaloriesWithCache totalCalories=126775"}
+{"timestamp": "20171223-22:15:29:648", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:29:649", "level": "info", "message": "REPORT : 7007 5002 150089 240"}
+{"timestamp": "20171223-22:15:29:737", "level": "info", "message": "onExtend:1514038530000 0 0 4"}
+{"timestamp": "20171223-22:15:29:738", "level": "info", "message": "onStandStepChanged 3579"}
+{"timestamp": "20171223-22:15:29:792", "level": "info", "message": "onStandStepChanged 3580"}
+{"timestamp": "20171223-22:15:29:800", "level": "info", "message": "onExtend:1514038530000 1 0 4"}
+{"timestamp": "20171223-22:15:29:950", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7007##548365##8661##12361##27173954"}
+{"timestamp": "20171223-22:15:29:950", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7008##548365##8661##12456##27174269"}
+{"timestamp": "20171223-22:15:29:959", "level": "info", "message": "calculateCaloriesWithCache totalCalories=126797"}
+{"timestamp": "20171223-22:15:29:962", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:29:962", "level": "info", "message": "REPORT : 7008 5003 150111 240"}
+{"timestamp": "20171223-22:15:30:331", "level": "info", "message": "onStandStepChanged 3581"}
+{"timestamp": "20171223-22:15:30:335", "level": "info", "message": "onExtend:1514038531000 1 0 4"}
+{"timestamp": "20171223-22:15:30:632", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7008##548365##8661##12456##27174269"}
+{"timestamp": "20171223-22:15:30:632", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7009##548365##8661##12551##27174951"}
+{"timestamp": "20171223-22:15:30:639", "level": "info", "message": "calculateCaloriesWithCache totalCalories=126818"}
+{"timestamp": "20171223-22:15:30:641", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:30:642", "level": "info", "message": "REPORT : 7009 5004 150132 240"}
+{"timestamp": "20171223-22:15:30:841", "level": "info", "message": "onStandStepChanged 3583"}
+{"timestamp": "20171223-22:15:30:858", "level": "info", "message": "onExtend:1514038531000 2 0 4"}
+{"timestamp": "20171223-22:15:31:142", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7009##548365##8661##12551##27174951"}
+{"timestamp": "20171223-22:15:31:143", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7011##548365##8661##12646##27175461"}
+{"timestamp": "20171223-22:15:31:157", "level": "info", "message": "calculateCaloriesWithCache totalCalories=126861"}
+{"timestamp": "20171223-22:15:31:160", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:31:160", "level": "info", "message": "REPORT : 7011 5005 150175 240"}
+{"timestamp": "20171223-22:15:31:841", "level": "info", "message": "onStandStepChanged 3584"}
+{"timestamp": "20171223-22:15:31:862", "level": "info", "message": "onExtend:1514038532000 1 0 4"}
+{"timestamp": "20171223-22:15:32:145", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7011##548365##8661##12646##27175461"}
+{"timestamp": "20171223-22:15:32:147", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7012##548365##8661##12741##27176464"}
+{"timestamp": "20171223-22:15:32:156", "level": "info", "message": "calculateCaloriesWithCache totalCalories=126882"}
+{"timestamp": "20171223-22:15:32:162", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:32:163", "level": "info", "message": "REPORT : 7012 5006 150197 240"}
+{"timestamp": "20171223-22:15:32:340", "level": "info", "message": "onStandStepChanged 3585"}
+{"timestamp": "20171223-22:15:32:354", "level": "info", "message": "onExtend:1514038533000 1 0 4"}
+{"timestamp": "20171223-22:15:32:647", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7012##548365##8661##12741##27176464"}
+{"timestamp": "20171223-22:15:32:648", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7013##548365##8661##12836##27176966"}
+{"timestamp": "20171223-22:15:32:656", "level": "info", "message": "calculateCaloriesWithCache totalCalories=126904"}
+{"timestamp": "20171223-22:15:32:658", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:32:659", "level": "info", "message": "REPORT : 7013 5007 150218 240"}
+{"timestamp": "20171223-22:15:32:840", "level": "info", "message": "onStandStepChanged 3586"}
+{"timestamp": "20171223-22:15:32:846", "level": "info", "message": "onExtend:1514038533000 1 0 4"}
+{"timestamp": "20171223-22:15:33:144", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7013##548365##8661##12836##27176966"}
+{"timestamp": "20171223-22:15:33:144", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7014##548365##8661##12931##27177463"}
+{"timestamp": "20171223-22:15:33:148", "level": "info", "message": "calculateCaloriesWithCache totalCalories=126925"}
+{"timestamp": "20171223-22:15:33:149", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:33:149", "level": "info", "message": "REPORT : 7014 5007 150239 240"}
+{"timestamp": "20171223-22:15:33:341", "level": "info", "message": "onStandStepChanged 3587"}
+{"timestamp": "20171223-22:15:33:370", "level": "info", "message": "onExtend:1514038534000 1 0 4"}
+{"timestamp": "20171223-22:15:33:643", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7014##548365##8661##12931##27177463"}
+{"timestamp": "20171223-22:15:33:644", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7015##548365##8661##13026##27177962"}
+{"timestamp": "20171223-22:15:33:658", "level": "info", "message": "calculateCaloriesWithCache totalCalories=126947"}
+{"timestamp": "20171223-22:15:33:662", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:33:663", "level": "info", "message": "REPORT : 7015 5008 150261 240"}
+{"timestamp": "20171223-22:15:34:711", "level": "info", "message": "onStandStepChanged 3588"}
+{"timestamp": "20171223-22:15:34:723", "level": "info", "message": "onExtend:1514038535000 1 0 4"}
+{"timestamp": "20171223-22:15:34:723", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-22:15:34:848", "level": "info", "message": "onStandStepChanged 3589"}
+{"timestamp": "20171223-22:15:34:851", "level": "info", "message": "onExtend:1514038535000 1 0 4"}
+{"timestamp": "20171223-22:15:35:104", "level": "info", "message": "calculateCaloriesWithCache totalCalories=126989"}
+{"timestamp": "20171223-22:15:35:112", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:35:112", "level": "info", "message": "REPORT : 7017 5010 150304 240"}
+{"timestamp": "20171223-22:15:35:198", "level": "info", "message": "onStandStepChanged 3589"}
+{"timestamp": "20171223-22:15:35:201", "level": "info", "message": "onExtend:1514038536000 0 0 4"}
+{"timestamp": "20171223-22:15:35:348", "level": "info", "message": "onStandStepChanged 3590"}
+{"timestamp": "20171223-22:15:35:352", "level": "info", "message": "onExtend:1514038536000 1 0 4"}
+{"timestamp": "20171223-22:15:35:413", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7017##548365##8661##13216##27179417"}
+{"timestamp": "20171223-22:15:35:413", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7018##548365##8661##13311##27179732"}
+{"timestamp": "20171223-22:15:35:418", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127011"}
+{"timestamp": "20171223-22:15:35:421", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:35:421", "level": "info", "message": "REPORT : 7018 5010 150325 240"}
+{"timestamp": "20171223-22:15:35:848", "level": "info", "message": "onStandStepChanged 3591"}
+{"timestamp": "20171223-22:15:35:852", "level": "info", "message": "onExtend:1514038536000 1 0 4"}
+{"timestamp": "20171223-22:15:36:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7018##548365##8661##13311##27179732"}
+{"timestamp": "20171223-22:15:36:149", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7019##548365##8661##13406##27180468"}
+{"timestamp": "20171223-22:15:36:154", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127032"}
+{"timestamp": "20171223-22:15:36:157", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:36:157", "level": "info", "message": "REPORT : 7019 5011 150346 240"}
+{"timestamp": "20171223-22:15:36:356", "level": "info", "message": "onStandStepChanged 3592"}
+{"timestamp": "20171223-22:15:36:365", "level": "info", "message": "onExtend:1514038537000 1 0 4"}
+{"timestamp": "20171223-22:15:36:657", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7019##548365##8661##13406##27180468"}
+{"timestamp": "20171223-22:15:36:657", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7020##548365##8661##13501##27180976"}
+{"timestamp": "20171223-22:15:36:668", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127054"}
+{"timestamp": "20171223-22:15:36:672", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:36:673", "level": "info", "message": "REPORT : 7020 5012 150368 240"}
+{"timestamp": "20171223-22:15:37:351", "level": "info", "message": "onStandStepChanged 3593"}
+{"timestamp": "20171223-22:15:37:361", "level": "info", "message": "onExtend:1514038538000 1 0 4"}
+{"timestamp": "20171223-22:15:37:652", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7020##548365##8661##13501##27180976"}
+{"timestamp": "20171223-22:15:37:653", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7021##548365##8661##13596##27181971"}
+{"timestamp": "20171223-22:15:37:666", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127075"}
+{"timestamp": "20171223-22:15:37:670", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:37:671", "level": "info", "message": "REPORT : 7021 5012 150389 240"}
+{"timestamp": "20171223-22:15:37:848", "level": "info", "message": "onStandStepChanged 3594"}
+{"timestamp": "20171223-22:15:37:858", "level": "info", "message": "onExtend:1514038538000 1 0 4"}
+{"timestamp": "20171223-22:15:38:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7021##548365##8661##13596##27181971"}
+{"timestamp": "20171223-22:15:38:149", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7022##548365##8661##13691##27182468"}
+{"timestamp": "20171223-22:15:38:159", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127097"}
+{"timestamp": "20171223-22:15:38:164", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:38:164", "level": "info", "message": "REPORT : 7022 5013 150411 240"}
+{"timestamp": "20171223-22:15:38:349", "level": "info", "message": "onStandStepChanged 3595"}
+{"timestamp": "20171223-22:15:38:361", "level": "info", "message": "onExtend:1514038539000 1 0 4"}
+{"timestamp": "20171223-22:15:38:653", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7022##548365##8661##13691##27182468"}
+{"timestamp": "20171223-22:15:38:654", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7023##548365##8661##13786##27182973"}
+{"timestamp": "20171223-22:15:38:665", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127118"}
+{"timestamp": "20171223-22:15:38:669", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:38:669", "level": "info", "message": "REPORT : 7023 5014 150432 240"}
+{"timestamp": "20171223-22:15:38:850", "level": "info", "message": "onStandStepChanged 3596"}
+{"timestamp": "20171223-22:15:38:868", "level": "info", "message": "onExtend:1514038539000 1 0 4"}
+{"timestamp": "20171223-22:15:39:150", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7023##548365##8661##13786##27182973"}
+{"timestamp": "20171223-22:15:39:151", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7024##548365##8661##13881##27183469"}
+{"timestamp": "20171223-22:15:39:155", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127139"}
+{"timestamp": "20171223-22:15:39:156", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:39:156", "level": "info", "message": "REPORT : 7024 5015 150454 240"}
+{"timestamp": "20171223-22:15:39:348", "level": "info", "message": "onStandStepChanged 3597"}
+{"timestamp": "20171223-22:15:39:354", "level": "info", "message": "onExtend:1514038540000 1 0 4"}
+{"timestamp": "20171223-22:15:39:655", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7024##548365##8661##13881##27183469"}
+{"timestamp": "20171223-22:15:39:656", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7025##548365##8661##13976##27183974"}
+{"timestamp": "20171223-22:15:39:665", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127161"}
+{"timestamp": "20171223-22:15:39:669", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:39:669", "level": "info", "message": "REPORT : 7025 5015 150475 240"}
+{"timestamp": "20171223-22:15:40:349", "level": "info", "message": "onStandStepChanged 3598"}
+{"timestamp": "20171223-22:15:40:365", "level": "info", "message": "onExtend:1514038541000 1 0 4"}
+{"timestamp": "20171223-22:15:40:652", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7025##548365##8661##13976##27183974"}
+{"timestamp": "20171223-22:15:40:653", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7026##548365##8661##14071##27184972"}
+{"timestamp": "20171223-22:15:40:668", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127182"}
+{"timestamp": "20171223-22:15:40:675", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:40:676", "level": "info", "message": "REPORT : 7026 5016 150496 240"}
+{"timestamp": "20171223-22:15:40:848", "level": "info", "message": "onStandStepChanged 3599"}
+{"timestamp": "20171223-22:15:40:852", "level": "info", "message": "onExtend:1514038541000 1 0 4"}
+{"timestamp": "20171223-22:15:41:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7026##548365##8661##14071##27184972"}
+{"timestamp": "20171223-22:15:41:149", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7027##548365##8661##14166##27185467"}
+{"timestamp": "20171223-22:15:41:152", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127204"}
+{"timestamp": "20171223-22:15:41:153", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:41:153", "level": "info", "message": "REPORT : 7027 5017 150518 240"}
+{"timestamp": "20171223-22:15:41:353", "level": "info", "message": "onStandStepChanged 3600"}
+{"timestamp": "20171223-22:15:41:358", "level": "info", "message": "onExtend:1514038542000 1 0 4"}
+{"timestamp": "20171223-22:15:41:658", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7027##548365##8661##14166##27185467"}
+{"timestamp": "20171223-22:15:41:658", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7028##548365##8661##14261##27185977"}
+{"timestamp": "20171223-22:15:41:667", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127225"}
+{"timestamp": "20171223-22:15:41:670", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:41:672", "level": "info", "message": "REPORT : 7028 5017 150539 240"}
+{"timestamp": "20171223-22:15:41:848", "level": "info", "message": "onStandStepChanged 3601"}
+{"timestamp": "20171223-22:15:41:856", "level": "info", "message": "onExtend:1514038542000 1 0 4"}
+{"timestamp": "20171223-22:15:42:150", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7028##548365##8661##14261##27185977"}
+{"timestamp": "20171223-22:15:42:151", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7029##548365##8661##14356##27186469"}
+{"timestamp": "20171223-22:15:42:160", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127246"}
+{"timestamp": "20171223-22:15:42:164", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:42:165", "level": "info", "message": "REPORT : 7029 5018 150561 240"}
+{"timestamp": "20171223-22:15:42:848", "level": "info", "message": "onStandStepChanged 3602"}
+{"timestamp": "20171223-22:15:42:852", "level": "info", "message": "onExtend:1514038543000 1 0 4"}
+{"timestamp": "20171223-22:15:43:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7029##548365##8661##14356##27186469"}
+{"timestamp": "20171223-22:15:43:149", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7030##548365##8661##14451##27187468"}
+{"timestamp": "20171223-22:15:43:160", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127268"}
+{"timestamp": "20171223-22:15:43:163", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:43:164", "level": "info", "message": "REPORT : 7030 5019 150582 240"}
+{"timestamp": "20171223-22:15:43:348", "level": "info", "message": "onStandStepChanged 3603"}
+{"timestamp": "20171223-22:15:43:354", "level": "info", "message": "onExtend:1514038544000 1 0 4"}
+{"timestamp": "20171223-22:15:43:649", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7030##548365##8661##14451##27187468"}
+{"timestamp": "20171223-22:15:43:650", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7031##548365##8661##14546##27187968"}
+{"timestamp": "20171223-22:15:43:677", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127289"}
+{"timestamp": "20171223-22:15:43:679", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:43:679", "level": "info", "message": "REPORT : 7031 5020 150604 240"}
+{"timestamp": "20171223-22:15:43:850", "level": "info", "message": "onStandStepChanged 3604"}
+{"timestamp": "20171223-22:15:43:861", "level": "info", "message": "onExtend:1514038544000 1 0 4"}
+{"timestamp": "20171223-22:15:44:152", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7031##548365##8661##14546##27187968"}
+{"timestamp": "20171223-22:15:44:152", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7032##548365##8661##14641##27188471"}
+{"timestamp": "20171223-22:15:44:163", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127311"}
+{"timestamp": "20171223-22:15:44:166", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:44:170", "level": "info", "message": "REPORT : 7032 5020 150625 240"}
+{"timestamp": "20171223-22:15:44:849", "level": "info", "message": "onStandStepChanged 3605"}
+{"timestamp": "20171223-22:15:44:863", "level": "info", "message": "onExtend:1514038545000 1 0 4"}
+{"timestamp": "20171223-22:15:45:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7032##548365##8661##14641##27188471"}
+{"timestamp": "20171223-22:15:45:150", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7033##548365##8661##14736##27189469"}
+{"timestamp": "20171223-22:15:45:158", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127332"}
+{"timestamp": "20171223-22:15:45:161", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:45:164", "level": "info", "message": "REPORT : 7033 5021 150646 240"}
+{"timestamp": "20171223-22:15:45:348", "level": "info", "message": "onStandStepChanged 3606"}
+{"timestamp": "20171223-22:15:45:361", "level": "info", "message": "onExtend:1514038546000 1 0 4"}
+{"timestamp": "20171223-22:15:45:649", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7033##548365##8661##14736##27189469"}
+{"timestamp": "20171223-22:15:45:650", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7034##548365##8661##14831##27189969"}
+{"timestamp": "20171223-22:15:45:656", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127354"}
+{"timestamp": "20171223-22:15:45:658", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:45:659", "level": "info", "message": "REPORT : 7034 5022 150668 240"}
+{"timestamp": "20171223-22:15:45:848", "level": "info", "message": "onStandStepChanged 3607"}
+{"timestamp": "20171223-22:15:45:851", "level": "info", "message": "onExtend:1514038546000 1 0 4"}
+{"timestamp": "20171223-22:15:46:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7034##548365##8661##14831##27189969"}
+{"timestamp": "20171223-22:15:46:150", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7035##548365##8661##14926##27190469"}
+{"timestamp": "20171223-22:15:46:157", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127375"}
+{"timestamp": "20171223-22:15:46:160", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:46:164", "level": "info", "message": "REPORT : 7035 5022 150689 240"}
+{"timestamp": "20171223-22:15:46:349", "level": "info", "message": "onStandStepChanged 3608"}
+{"timestamp": "20171223-22:15:46:355", "level": "info", "message": "onExtend:1514038547000 1 0 4"}
+{"timestamp": "20171223-22:15:46:650", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7035##548365##8661##14926##27190469"}
+{"timestamp": "20171223-22:15:46:651", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7036##548365##8661##15021##27190970"}
+{"timestamp": "20171223-22:15:46:674", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127396"}
+{"timestamp": "20171223-22:15:46:679", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:46:684", "level": "info", "message": "REPORT : 7036 5023 150711 240"}
+{"timestamp": "20171223-22:15:47:349", "level": "info", "message": "onStandStepChanged 3609"}
+{"timestamp": "20171223-22:15:47:370", "level": "info", "message": "onExtend:1514038548000 1 0 4"}
+{"timestamp": "20171223-22:15:47:650", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7036##548365##8661##15021##27190970"}
+{"timestamp": "20171223-22:15:47:650", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7037##548365##8661##15116##27191969"}
+{"timestamp": "20171223-22:15:47:658", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127418"}
+{"timestamp": "20171223-22:15:47:661", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:47:661", "level": "info", "message": "REPORT : 7037 5024 150732 240"}
+{"timestamp": "20171223-22:15:47:857", "level": "info", "message": "onStandStepChanged 3610"}
+{"timestamp": "20171223-22:15:47:860", "level": "info", "message": "onExtend:1514038548000 1 0 4"}
+{"timestamp": "20171223-22:15:48:158", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7037##548365##8661##15116##27191969"}
+{"timestamp": "20171223-22:15:48:159", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7038##548365##8661##15211##27192478"}
+{"timestamp": "20171223-22:15:48:167", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127439"}
+{"timestamp": "20171223-22:15:48:169", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:48:174", "level": "info", "message": "REPORT : 7038 5025 150753 240"}
+{"timestamp": "20171223-22:15:48:350", "level": "info", "message": "onStandStepChanged 3611"}
+{"timestamp": "20171223-22:15:48:368", "level": "info", "message": "onExtend:1514038549000 1 0 4"}
+{"timestamp": "20171223-22:15:48:652", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7038##548365##8661##15211##27192478"}
+{"timestamp": "20171223-22:15:48:653", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7039##548365##8661##15306##27192971"}
+{"timestamp": "20171223-22:15:48:668", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127461"}
+{"timestamp": "20171223-22:15:48:676", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:48:679", "level": "info", "message": "REPORT : 7039 5025 150775 240"}
+{"timestamp": "20171223-22:15:49:350", "level": "info", "message": "onStandStepChanged 3612"}
+{"timestamp": "20171223-22:15:49:366", "level": "info", "message": "onExtend:1514038550000 1 0 4"}
+{"timestamp": "20171223-22:15:49:652", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7039##548365##8661##15306##27192971"}
+{"timestamp": "20171223-22:15:49:653", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7040##548365##8661##15401##27193971"}
+{"timestamp": "20171223-22:15:49:668", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127482"}
+{"timestamp": "20171223-22:15:49:675", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:49:676", "level": "info", "message": "REPORT : 7040 5026 150796 240"}
+{"timestamp": "20171223-22:15:49:858", "level": "info", "message": "onStandStepChanged 3613"}
+{"timestamp": "20171223-22:15:49:864", "level": "info", "message": "onExtend:1514038550000 1 0 4"}
+{"timestamp": "20171223-22:15:50:160", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7040##548365##8661##15401##27193971"}
+{"timestamp": "20171223-22:15:50:161", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7041##548365##8661##15496##27194480"}
+{"timestamp": "20171223-22:15:50:176", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127504"}
+{"timestamp": "20171223-22:15:50:181", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:50:182", "level": "info", "message": "REPORT : 7041 5027 150818 240"}
+{"timestamp": "20171223-22:15:50:850", "level": "info", "message": "onStandStepChanged 3614"}
+{"timestamp": "20171223-22:15:50:864", "level": "info", "message": "onExtend:1514038551000 1 0 4"}
+{"timestamp": "20171223-22:15:51:151", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7041##548365##8661##15496##27194480"}
+{"timestamp": "20171223-22:15:51:152", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7042##548365##8661##15591##27195470"}
+{"timestamp": "20171223-22:15:51:169", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127525"}
+{"timestamp": "20171223-22:15:51:180", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:51:181", "level": "info", "message": "REPORT : 7042 5027 150839 240"}
+{"timestamp": "20171223-22:15:51:859", "level": "info", "message": "onStandStepChanged 3616"}
+{"timestamp": "20171223-22:15:51:868", "level": "info", "message": "onExtend:1514038552000 2 0 4"}
+{"timestamp": "20171223-22:15:52:160", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7042##548365##8661##15591##27195470"}
+{"timestamp": "20171223-22:15:52:161", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7044##548365##8661##15686##27196480"}
+{"timestamp": "20171223-22:15:52:175", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127568"}
+{"timestamp": "20171223-22:15:52:183", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:52:183", "level": "info", "message": "REPORT : 7044 5029 150882 240"}
+{"timestamp": "20171223-22:15:52:349", "level": "info", "message": "onStandStepChanged 3617"}
+{"timestamp": "20171223-22:15:52:363", "level": "info", "message": "onExtend:1514038553000 1 0 4"}
+{"timestamp": "20171223-22:15:52:651", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7044##548365##8661##15686##27196480"}
+{"timestamp": "20171223-22:15:52:652", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7045##548365##8661##15781##27196970"}
+{"timestamp": "20171223-22:15:52:666", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127589"}
+{"timestamp": "20171223-22:15:52:674", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:52:674", "level": "info", "message": "REPORT : 7045 5030 150903 240"}
+{"timestamp": "20171223-22:15:53:349", "level": "info", "message": "onStandStepChanged 3619"}
+{"timestamp": "20171223-22:15:53:358", "level": "info", "message": "onExtend:1514038554000 2 0 4"}
+{"timestamp": "20171223-22:15:53:653", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7045##548365##8661##15781##27196970"}
+{"timestamp": "20171223-22:15:53:653", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7047##548365##8661##15876##27197972"}
+{"timestamp": "20171223-22:15:53:665", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127632"}
+{"timestamp": "20171223-22:15:53:673", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:53:675", "level": "info", "message": "REPORT : 7047 5031 150946 240"}
+{"timestamp": "20171223-22:15:54:350", "level": "info", "message": "onStandStepChanged 3620"}
+{"timestamp": "20171223-22:15:54:359", "level": "info", "message": "onExtend:1514038555000 1 0 4"}
+{"timestamp": "20171223-22:15:54:651", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7047##548365##8661##15876##27197972"}
+{"timestamp": "20171223-22:15:54:651", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7048##548365##8661##15971##27198970"}
+{"timestamp": "20171223-22:15:54:657", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127653"}
+{"timestamp": "20171223-22:15:54:660", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:54:661", "level": "info", "message": "REPORT : 7048 5032 150968 240"}
+{"timestamp": "20171223-22:15:55:349", "level": "info", "message": "onStandStepChanged 3622"}
+{"timestamp": "20171223-22:15:55:359", "level": "info", "message": "onExtend:1514038556000 2 0 4"}
+{"timestamp": "20171223-22:15:55:650", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7048##548365##8661##15971##27198970"}
+{"timestamp": "20171223-22:15:55:650", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7050##548365##8661##16066##27199969"}
+{"timestamp": "20171223-22:15:55:657", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127696"}
+{"timestamp": "20171223-22:15:55:659", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:55:660", "level": "info", "message": "REPORT : 7050 5033 151011 240"}
+{"timestamp": "20171223-22:15:55:848", "level": "info", "message": "onStandStepChanged 3624"}
+{"timestamp": "20171223-22:15:55:855", "level": "info", "message": "onExtend:1514038556000 2 0 4"}
+{"timestamp": "20171223-22:15:56:150", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7050##548365##8661##16066##27199969"}
+{"timestamp": "20171223-22:15:56:151", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7052##548365##8661##16161##27200470"}
+{"timestamp": "20171223-22:15:56:163", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127739"}
+{"timestamp": "20171223-22:15:56:169", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:56:170", "level": "info", "message": "REPORT : 7052 5035 151053 240"}
+{"timestamp": "20171223-22:15:57:851", "level": "info", "message": "onStandStepChanged 3625"}
+{"timestamp": "20171223-22:15:57:863", "level": "info", "message": "onExtend:1514038558000 1 0 4"}
+{"timestamp": "20171223-22:15:58:155", "level": "info", "message": "getTodayTotalDetailSteps = 1514038440000##7052##548365##8661##16161##27200470"}
+{"timestamp": "20171223-22:15:58:156", "level": "info", "message": "setTodayTotalDetailSteps=1514038440000##7053##548365##8661##16256##27202475"}
+{"timestamp": "20171223-22:15:58:170", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127761"}
+{"timestamp": "20171223-22:15:58:174", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:15:58:175", "level": "info", "message": "REPORT : 7053 5035 151075 240"}
+{"timestamp": "20171223-22:15:59:849", "level": "info", "message": "onStandStepChanged 3626"}
+{"timestamp": "20171223-22:15:59:865", "level": "info", "message": "onExtend:1514038560000 1 0 4"}
+{"timestamp": "20171223-22:17:18:850", "level": "info", "message": "onStandStepChanged 3626"}
+{"timestamp": "20171223-22:17:18:864", "level": "info", "message": "onExtend:1514038639000 0 0 4"}
+{"timestamp": "20171223-22:17:19:151", "level": "info", "message": "getTodayTotalDetailSteps = 1514038500000##7054##548551##8661##16256##27205469"}
+{"timestamp": "20171223-22:17:19:152", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7054##548552##8661##16256##27283470"}
+{"timestamp": "20171223-22:17:19:167", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127782"}
+{"timestamp": "20171223-22:17:19:174", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:20:348", "level": "info", "message": "onStandStepChanged 3628"}
+{"timestamp": "20171223-22:17:20:358", "level": "info", "message": "onExtend:1514038641000 2 0 4"}
+{"timestamp": "20171223-22:17:20:652", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7054##548552##8661##16256##27283470"}
+{"timestamp": "20171223-22:17:20:652", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7056##548553##8661##16256##27284971"}
+{"timestamp": "20171223-22:17:20:662", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127824"}
+{"timestamp": "20171223-22:17:20:669", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:20:675", "level": "info", "message": "REPORT : 7056 5037 151139 240"}
+{"timestamp": "20171223-22:17:20:853", "level": "info", "message": "onStandStepChanged 3630"}
+{"timestamp": "20171223-22:17:20:859", "level": "info", "message": "onExtend:1514038641000 2 0 4"}
+{"timestamp": "20171223-22:17:21:156", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7056##548553##8661##16256##27284971"}
+{"timestamp": "20171223-22:17:21:156", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7058##548554##8661##16256##27285475"}
+{"timestamp": "20171223-22:17:21:162", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127867"}
+{"timestamp": "20171223-22:17:21:164", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:21:165", "level": "info", "message": "REPORT : 7058 5039 151182 240"}
+{"timestamp": "20171223-22:17:21:348", "level": "info", "message": "onStandStepChanged 3632"}
+{"timestamp": "20171223-22:17:21:353", "level": "info", "message": "onExtend:1514038642000 2 0 4"}
+{"timestamp": "20171223-22:17:21:649", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7058##548554##8661##16256##27285475"}
+{"timestamp": "20171223-22:17:21:649", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7060##548555##8661##16256##27285968"}
+{"timestamp": "20171223-22:17:21:659", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127910"}
+{"timestamp": "20171223-22:17:21:663", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:21:668", "level": "info", "message": "REPORT : 7060 5040 151225 240"}
+{"timestamp": "20171223-22:17:21:850", "level": "info", "message": "onStandStepChanged 3634"}
+{"timestamp": "20171223-22:17:21:859", "level": "info", "message": "onExtend:1514038642000 2 0 4"}
+{"timestamp": "20171223-22:17:22:151", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7060##548555##8661##16256##27285968"}
+{"timestamp": "20171223-22:17:22:152", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7062##548556##8661##16256##27286470"}
+{"timestamp": "20171223-22:17:22:162", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127953"}
+{"timestamp": "20171223-22:17:22:166", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:22:170", "level": "info", "message": "REPORT : 7062 5042 151268 240"}
+{"timestamp": "20171223-22:17:22:348", "level": "info", "message": "onStandStepChanged 3636"}
+{"timestamp": "20171223-22:17:22:363", "level": "info", "message": "onExtend:1514038643000 2 0 4"}
+{"timestamp": "20171223-22:17:22:650", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7062##548556##8661##16256##27286470"}
+{"timestamp": "20171223-22:17:22:651", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7064##548557##8661##16256##27286970"}
+{"timestamp": "20171223-22:17:22:661", "level": "info", "message": "calculateCaloriesWithCache totalCalories=127996"}
+{"timestamp": "20171223-22:17:22:665", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:22:665", "level": "info", "message": "REPORT : 7064 5043 151310 240"}
+{"timestamp": "20171223-22:17:22:849", "level": "info", "message": "onStandStepChanged 3638"}
+{"timestamp": "20171223-22:17:22:859", "level": "info", "message": "onExtend:1514038643000 2 0 4"}
+{"timestamp": "20171223-22:17:23:150", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7064##548557##8661##16256##27286970"}
+{"timestamp": "20171223-22:17:23:150", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7066##548558##8661##16256##27287469"}
+{"timestamp": "20171223-22:17:23:160", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128039"}
+{"timestamp": "20171223-22:17:23:165", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:23:165", "level": "info", "message": "REPORT : 7066 5045 151353 240"}
+{"timestamp": "20171223-22:17:23:348", "level": "info", "message": "onStandStepChanged 3640"}
+{"timestamp": "20171223-22:17:23:358", "level": "info", "message": "onExtend:1514038644000 2 0 4"}
+{"timestamp": "20171223-22:17:23:653", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7066##548558##8661##16256##27287469"}
+{"timestamp": "20171223-22:17:23:653", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7068##548559##8661##16256##27287972"}
+{"timestamp": "20171223-22:17:23:662", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128081"}
+{"timestamp": "20171223-22:17:23:667", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:23:668", "level": "info", "message": "REPORT : 7068 5046 151396 240"}
+{"timestamp": "20171223-22:17:23:851", "level": "info", "message": "onStandStepChanged 3642"}
+{"timestamp": "20171223-22:17:23:861", "level": "info", "message": "onExtend:1514038644000 2 0 4"}
+{"timestamp": "20171223-22:17:24:151", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7068##548559##8661##16256##27287972"}
+{"timestamp": "20171223-22:17:24:152", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7070##548560##8661##16256##27288471"}
+{"timestamp": "20171223-22:17:24:162", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128124"}
+{"timestamp": "20171223-22:17:24:166", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:24:167", "level": "info", "message": "REPORT : 7070 5047 151439 240"}
+{"timestamp": "20171223-22:17:24:348", "level": "info", "message": "onStandStepChanged 3643"}
+{"timestamp": "20171223-22:17:24:359", "level": "info", "message": "onExtend:1514038645000 1 0 4"}
+{"timestamp": "20171223-22:17:24:654", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7070##548560##8661##16256##27288471"}
+{"timestamp": "20171223-22:17:24:654", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7071##548561##8661##16256##27288973"}
+{"timestamp": "20171223-22:17:24:664", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128146"}
+{"timestamp": "20171223-22:17:24:668", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:24:668", "level": "info", "message": "REPORT : 7071 5048 151460 240"}
+{"timestamp": "20171223-22:17:24:848", "level": "info", "message": "onStandStepChanged 3646"}
+{"timestamp": "20171223-22:17:24:860", "level": "info", "message": "onExtend:1514038645000 3 0 4"}
+{"timestamp": "20171223-22:17:25:150", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7071##548561##8661##16256##27288973"}
+{"timestamp": "20171223-22:17:25:151", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7074##548562##8661##16256##27289470"}
+{"timestamp": "20171223-22:17:25:159", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128210"}
+{"timestamp": "20171223-22:17:25:162", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:25:163", "level": "info", "message": "REPORT : 7074 5050 151525 240"}
+{"timestamp": "20171223-22:17:27:855", "level": "info", "message": "onStandStepChanged 3646"}
+{"timestamp": "20171223-22:17:27:859", "level": "info", "message": "onExtend:1514038648000 0 0 0"}
+{"timestamp": "20171223-22:17:28:156", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7074##548562##8661##16256##27289470"}
+{"timestamp": "20171223-22:17:28:156", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7074##548563##8661##16256##27292475"}
+{"timestamp": "20171223-22:17:28:166", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128210"}
+{"timestamp": "20171223-22:17:28:170", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:44:849", "level": "info", "message": "onStandStepChanged 3647"}
+{"timestamp": "20171223-22:17:44:869", "level": "info", "message": "onExtend:1514038665000 1 0 4"}
+{"timestamp": "20171223-22:17:45:151", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7074##548563##8661##16256##27292475"}
+{"timestamp": "20171223-22:17:45:151", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7075##548564##8661##16256##27309470"}
+{"timestamp": "20171223-22:17:45:162", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128231"}
+{"timestamp": "20171223-22:17:45:166", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:45:169", "level": "info", "message": "REPORT : 7075 5051 151546 240"}
+{"timestamp": "20171223-22:17:45:348", "level": "info", "message": "onStandStepChanged 3649"}
+{"timestamp": "20171223-22:17:45:366", "level": "info", "message": "onExtend:1514038666000 2 0 4"}
+{"timestamp": "20171223-22:17:45:649", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7075##548564##8661##16256##27309470"}
+{"timestamp": "20171223-22:17:45:650", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7077##548565##8661##16256##27309969"}
+{"timestamp": "20171223-22:17:45:663", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128274"}
+{"timestamp": "20171223-22:17:45:668", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:45:674", "level": "info", "message": "REPORT : 7077 5052 151589 240"}
+{"timestamp": "20171223-22:17:45:851", "level": "info", "message": "onStandStepChanged 3651"}
+{"timestamp": "20171223-22:17:45:856", "level": "info", "message": "onExtend:1514038666000 2 0 4"}
+{"timestamp": "20171223-22:17:46:154", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7077##548565##8661##16256##27309969"}
+{"timestamp": "20171223-22:17:46:154", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7079##548566##8661##16256##27310473"}
+{"timestamp": "20171223-22:17:46:163", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128317"}
+{"timestamp": "20171223-22:17:46:167", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:46:170", "level": "info", "message": "REPORT : 7079 5054 151632 240"}
+{"timestamp": "20171223-22:17:46:349", "level": "info", "message": "onStandStepChanged 3653"}
+{"timestamp": "20171223-22:17:46:364", "level": "info", "message": "onExtend:1514038667000 2 0 4"}
+{"timestamp": "20171223-22:17:46:650", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7079##548566##8661##16256##27310473"}
+{"timestamp": "20171223-22:17:46:651", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7081##548567##8661##16256##27310970"}
+{"timestamp": "20171223-22:17:46:659", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128360"}
+{"timestamp": "20171223-22:17:46:661", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:46:662", "level": "info", "message": "REPORT : 7081 5055 151675 240"}
+{"timestamp": "20171223-22:17:46:848", "level": "info", "message": "onStandStepChanged 3655"}
+{"timestamp": "20171223-22:17:46:858", "level": "info", "message": "onExtend:1514038667000 2 0 4"}
+{"timestamp": "20171223-22:17:47:153", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7081##548567##8661##16256##27310970"}
+{"timestamp": "20171223-22:17:47:154", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7083##548568##8661##16256##27311472"}
+{"timestamp": "20171223-22:17:47:163", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128403"}
+{"timestamp": "20171223-22:17:47:165", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:47:166", "level": "info", "message": "REPORT : 7083 5057 151717 240"}
+{"timestamp": "20171223-22:17:47:349", "level": "info", "message": "onStandStepChanged 3656"}
+{"timestamp": "20171223-22:17:47:366", "level": "info", "message": "onExtend:1514038668000 1 0 4"}
+{"timestamp": "20171223-22:17:47:651", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7083##548568##8661##16256##27311472"}
+{"timestamp": "20171223-22:17:47:652", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7084##548569##8661##16256##27311970"}
+{"timestamp": "20171223-22:17:47:659", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128424"}
+{"timestamp": "20171223-22:17:47:662", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:47:662", "level": "info", "message": "REPORT : 7084 5057 151739 240"}
+{"timestamp": "20171223-22:17:47:848", "level": "info", "message": "onStandStepChanged 3658"}
+{"timestamp": "20171223-22:17:47:854", "level": "info", "message": "onExtend:1514038668000 2 0 4"}
+{"timestamp": "20171223-22:17:48:148", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7084##548569##8661##16256##27311970"}
+{"timestamp": "20171223-22:17:48:149", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7086##548570##8661##16256##27312467"}
+{"timestamp": "20171223-22:17:48:157", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128467"}
+{"timestamp": "20171223-22:17:48:162", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:48:164", "level": "info", "message": "REPORT : 7086 5059 151782 240"}
+{"timestamp": "20171223-22:17:48:348", "level": "info", "message": "onStandStepChanged 3660"}
+{"timestamp": "20171223-22:17:48:357", "level": "info", "message": "onExtend:1514038669000 2 0 4"}
+{"timestamp": "20171223-22:17:48:648", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7086##548570##8661##16256##27312467"}
+{"timestamp": "20171223-22:17:48:649", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7088##548571##8661##16256##27312967"}
+{"timestamp": "20171223-22:17:48:656", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128510"}
+{"timestamp": "20171223-22:17:48:661", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:48:661", "level": "info", "message": "REPORT : 7088 5060 151824 240"}
+{"timestamp": "20171223-22:17:48:848", "level": "info", "message": "onStandStepChanged 3662"}
+{"timestamp": "20171223-22:17:48:853", "level": "info", "message": "onExtend:1514038669000 2 0 4"}
+{"timestamp": "20171223-22:17:49:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7088##548571##8661##16256##27312967"}
+{"timestamp": "20171223-22:17:49:149", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7090##548572##8661##16256##27313468"}
+{"timestamp": "20171223-22:17:49:162", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128553"}
+{"timestamp": "20171223-22:17:49:166", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:49:166", "level": "info", "message": "REPORT : 7090 5062 151867 240"}
+{"timestamp": "20171223-22:17:49:353", "level": "info", "message": "onStandStepChanged 3664"}
+{"timestamp": "20171223-22:17:49:358", "level": "info", "message": "onExtend:1514038670000 2 0 4"}
+{"timestamp": "20171223-22:17:49:655", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7090##548572##8661##16256##27313468"}
+{"timestamp": "20171223-22:17:49:655", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7092##548573##8661##16256##27313974"}
+{"timestamp": "20171223-22:17:49:661", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128595"}
+{"timestamp": "20171223-22:17:49:664", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:49:664", "level": "info", "message": "REPORT : 7092 5063 151910 240"}
+{"timestamp": "20171223-22:17:49:848", "level": "info", "message": "onStandStepChanged 3666"}
+{"timestamp": "20171223-22:17:49:854", "level": "info", "message": "onExtend:1514038670000 2 0 4"}
+{"timestamp": "20171223-22:17:50:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7092##548573##8661##16256##27313974"}
+{"timestamp": "20171223-22:17:50:149", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7094##548574##8661##16256##27314468"}
+{"timestamp": "20171223-22:17:50:156", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128638"}
+{"timestamp": "20171223-22:17:50:158", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:50:160", "level": "info", "message": "REPORT : 7094 5065 151953 240"}
+{"timestamp": "20171223-22:17:50:348", "level": "info", "message": "onStandStepChanged 3667"}
+{"timestamp": "20171223-22:17:50:354", "level": "info", "message": "onExtend:1514038671000 1 0 4"}
+{"timestamp": "20171223-22:17:50:649", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7094##548574##8661##16256##27314468"}
+{"timestamp": "20171223-22:17:50:649", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7095##548575##8661##16256##27314968"}
+{"timestamp": "20171223-22:17:50:658", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128660"}
+{"timestamp": "20171223-22:17:50:661", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:50:661", "level": "info", "message": "REPORT : 7095 5065 151974 240"}
+{"timestamp": "20171223-22:17:50:849", "level": "info", "message": "onStandStepChanged 3669"}
+{"timestamp": "20171223-22:17:50:856", "level": "info", "message": "onExtend:1514038671000 2 0 4"}
+{"timestamp": "20171223-22:17:51:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7095##548575##8661##16256##27314968"}
+{"timestamp": "20171223-22:17:51:150", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7097##548576##8661##16256##27315469"}
+{"timestamp": "20171223-22:17:51:158", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128703"}
+{"timestamp": "20171223-22:17:51:161", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:51:165", "level": "info", "message": "REPORT : 7097 5067 152017 240"}
+{"timestamp": "20171223-22:17:51:362", "level": "info", "message": "onStandStepChanged 3671"}
+{"timestamp": "20171223-22:17:51:370", "level": "info", "message": "onExtend:1514038672000 2 0 4"}
+{"timestamp": "20171223-22:17:51:664", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7097##548576##8661##16256##27315469"}
+{"timestamp": "20171223-22:17:51:664", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7099##548577##8661##16256##27315983"}
+{"timestamp": "20171223-22:17:51:673", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128745"}
+{"timestamp": "20171223-22:17:51:677", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:51:681", "level": "info", "message": "REPORT : 7099 5068 152060 240"}
+{"timestamp": "20171223-22:17:51:848", "level": "info", "message": "onStandStepChanged 3673"}
+{"timestamp": "20171223-22:17:51:854", "level": "info", "message": "onExtend:1514038672000 2 0 4"}
+{"timestamp": "20171223-22:17:52:151", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7099##548577##8661##16256##27315983"}
+{"timestamp": "20171223-22:17:52:152", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7101##548578##8661##16256##27316470"}
+{"timestamp": "20171223-22:17:52:162", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128788"}
+{"timestamp": "20171223-22:17:52:169", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:52:169", "level": "info", "message": "REPORT : 7101 5070 152103 240"}
+{"timestamp": "20171223-22:17:52:848", "level": "info", "message": "onStandStepChanged 3674"}
+{"timestamp": "20171223-22:17:52:855", "level": "info", "message": "onExtend:1514038673000 1 0 4"}
+{"timestamp": "20171223-22:17:53:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7101##548578##8661##16256##27316470"}
+{"timestamp": "20171223-22:17:53:149", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7102##548579##8661##16256##27317468"}
+{"timestamp": "20171223-22:17:53:163", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128810"}
+{"timestamp": "20171223-22:17:53:168", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:53:169", "level": "info", "message": "REPORT : 7102 5070 152124 240"}
+{"timestamp": "20171223-22:17:53:849", "level": "info", "message": "onStandStepChanged 3675"}
+{"timestamp": "20171223-22:17:53:859", "level": "info", "message": "onExtend:1514038674000 1 0 4"}
+{"timestamp": "20171223-22:17:54:152", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7102##548579##8661##16256##27317468"}
+{"timestamp": "20171223-22:17:54:153", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7103##548580##8661##16256##27318472"}
+{"timestamp": "20171223-22:17:54:167", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128831"}
+{"timestamp": "20171223-22:17:54:175", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:54:176", "level": "info", "message": "REPORT : 7103 5071 152146 240"}
+{"timestamp": "20171223-22:17:54:849", "level": "info", "message": "onStandStepChanged 3676"}
+{"timestamp": "20171223-22:17:54:864", "level": "info", "message": "onExtend:1514038675000 1 0 4"}
+{"timestamp": "20171223-22:17:55:153", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7103##548580##8661##16256##27318472"}
+{"timestamp": "20171223-22:17:55:154", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7104##548581##8661##16256##27319473"}
+{"timestamp": "20171223-22:17:55:162", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128853"}
+{"timestamp": "20171223-22:17:55:166", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:55:169", "level": "info", "message": "REPORT : 7104 5072 152167 240"}
+{"timestamp": "20171223-22:17:55:348", "level": "info", "message": "onStandStepChanged 3677"}
+{"timestamp": "20171223-22:17:55:381", "level": "info", "message": "onExtend:1514038676000 1 0 4"}
+{"timestamp": "20171223-22:17:55:649", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7104##548581##8661##16256##27319473"}
+{"timestamp": "20171223-22:17:55:649", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7105##548582##8661##16256##27319968"}
+{"timestamp": "20171223-22:17:55:658", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128874"}
+{"timestamp": "20171223-22:17:55:660", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:55:664", "level": "info", "message": "REPORT : 7105 5072 152189 240"}
+{"timestamp": "20171223-22:17:56:349", "level": "info", "message": "onStandStepChanged 3678"}
+{"timestamp": "20171223-22:17:56:361", "level": "info", "message": "onExtend:1514038677000 1 0 4"}
+{"timestamp": "20171223-22:17:56:650", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7105##548582##8661##16256##27319968"}
+{"timestamp": "20171223-22:17:56:651", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7106##548583##8661##16256##27320969"}
+{"timestamp": "20171223-22:17:56:666", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128895"}
+{"timestamp": "20171223-22:17:56:671", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:56:678", "level": "info", "message": "REPORT : 7106 5073 152210 240"}
+{"timestamp": "20171223-22:17:57:349", "level": "info", "message": "onStandStepChanged 3679"}
+{"timestamp": "20171223-22:17:57:372", "level": "info", "message": "onExtend:1514038678000 1 0 4"}
+{"timestamp": "20171223-22:17:57:650", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7106##548583##8661##16256##27320969"}
+{"timestamp": "20171223-22:17:57:650", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7107##548584##8661##16256##27321969"}
+{"timestamp": "20171223-22:17:57:659", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128917"}
+{"timestamp": "20171223-22:17:57:662", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:57:662", "level": "info", "message": "REPORT : 7107 5074 152231 240"}
+{"timestamp": "20171223-22:17:57:849", "level": "info", "message": "onStandStepChanged 3681"}
+{"timestamp": "20171223-22:17:57:862", "level": "info", "message": "onExtend:1514038678000 2 0 4"}
+{"timestamp": "20171223-22:17:58:150", "level": "info", "message": "getTodayTotalDetailSteps = 1514038560000##7107##548584##8661##16256##27321969"}
+{"timestamp": "20171223-22:17:58:151", "level": "info", "message": "setTodayTotalDetailSteps=1514038560000##7109##548585##8661##16256##27322469"}
+{"timestamp": "20171223-22:17:58:159", "level": "info", "message": "calculateCaloriesWithCache totalCalories=128960"}
+{"timestamp": "20171223-22:17:58:162", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:17:58:167", "level": "info", "message": "REPORT : 7109 5075 152274 240"}
+{"timestamp": "20171223-22:17:59:858", "level": "info", "message": "onStandStepChanged 3683"}
+{"timestamp": "20171223-22:17:59:872", "level": "info", "message": "onExtend:1514038680000 2 0 4"}
+{"timestamp": "20171223-22:19:10:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7126##548880##8661##16256##27393971"}
+{"timestamp": "20171223-22:19:10:150", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7128##548885##8661##16256##27394469"}
+{"timestamp": "20171223-22:19:10:160", "level": "info", "message": "calculateCaloriesWithCache totalCalories=129366"}
+{"timestamp": "20171223-22:19:10:164", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:10:165", "level": "info", "message": "REPORT : 7128 5089 152681 240"}
+{"timestamp": "20171223-22:19:10:348", "level": "info", "message": "onStandStepChanged 3702"}
+{"timestamp": "20171223-22:19:10:362", "level": "info", "message": "onExtend:1514038751000 2 0 4"}
+{"timestamp": "20171223-22:19:10:650", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7128##548885##8661##16256##27394469"}
+{"timestamp": "20171223-22:19:10:650", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7130##548890##8661##16256##27394969"}
+{"timestamp": "20171223-22:19:10:658", "level": "info", "message": "calculateCaloriesWithCache totalCalories=129409"}
+{"timestamp": "20171223-22:19:10:661", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:10:664", "level": "info", "message": "REPORT : 7130 5090 152724 240"}
+{"timestamp": "20171223-22:19:10:848", "level": "info", "message": "onStandStepChanged 3704"}
+{"timestamp": "20171223-22:19:10:858", "level": "info", "message": "onExtend:1514038751000 2 0 4"}
+{"timestamp": "20171223-22:19:11:149", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7130##548890##8661##16256##27394969"}
+{"timestamp": "20171223-22:19:11:150", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7132##548895##8661##16256##27395468"}
+{"timestamp": "20171223-22:19:11:160", "level": "info", "message": "calculateCaloriesWithCache totalCalories=129452"}
+{"timestamp": "20171223-22:19:11:164", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:11:164", "level": "info", "message": "REPORT : 7132 5092 152767 240"}
+{"timestamp": "20171223-22:19:11:349", "level": "info", "message": "onStandStepChanged 3707"}
+{"timestamp": "20171223-22:19:11:358", "level": "info", "message": "onExtend:1514038752000 3 0 4"}
+{"timestamp": "20171223-22:19:11:650", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7132##548895##8661##16256##27395468"}
+{"timestamp": "20171223-22:19:11:651", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7135##548900##8661##16256##27395969"}
+{"timestamp": "20171223-22:19:11:658", "level": "info", "message": "calculateCaloriesWithCache totalCalories=129516"}
+{"timestamp": "20171223-22:19:11:661", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:11:661", "level": "info", "message": "REPORT : 7135 5094 152831 240"}
+{"timestamp": "20171223-22:19:11:848", "level": "info", "message": "onStandStepChanged 3711"}
+{"timestamp": "20171223-22:19:11:857", "level": "info", "message": "onExtend:1514038752000 4 0 4"}
+{"timestamp": "20171223-22:19:12:153", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7135##548900##8661##16256##27395969"}
+{"timestamp": "20171223-22:19:12:154", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7139##548905##8661##16256##27396473"}
+{"timestamp": "20171223-22:19:12:162", "level": "info", "message": "calculateCaloriesWithCache totalCalories=129602"}
+{"timestamp": "20171223-22:19:12:165", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:12:167", "level": "info", "message": "REPORT : 7139 5097 152917 240"}
+{"timestamp": "20171223-22:19:12:349", "level": "info", "message": "onStandStepChanged 3712"}
+{"timestamp": "20171223-22:19:12:364", "level": "info", "message": "onExtend:1514038753000 1 0 4"}
+{"timestamp": "20171223-22:19:12:650", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7139##548905##8661##16256##27396473"}
+{"timestamp": "20171223-22:19:12:650", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7140##548910##8661##16256##27396969"}
+{"timestamp": "20171223-22:19:12:658", "level": "info", "message": "calculateCaloriesWithCache totalCalories=129623"}
+{"timestamp": "20171223-22:19:12:662", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:12:663", "level": "info", "message": "REPORT : 7140 5097 152938 240"}
+{"timestamp": "20171223-22:19:14:349", "level": "info", "message": "onStandStepChanged 3726"}
+{"timestamp": "20171223-22:19:14:363", "level": "info", "message": "onExtend:1514038755000 14 0 4"}
+{"timestamp": "20171223-22:19:14:655", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7140##548910##8661##16256##27396969"}
+{"timestamp": "20171223-22:19:14:656", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7154##548915##8661##16256##27398975"}
+{"timestamp": "20171223-22:19:14:677", "level": "info", "message": "calculateCaloriesWithCache totalCalories=129923"}
+{"timestamp": "20171223-22:19:14:686", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:14:688", "level": "info", "message": "REPORT : 7154 5107 153238 240"}
+{"timestamp": "20171223-22:19:15:855", "level": "info", "message": "onStandStepChanged 3726"}
+{"timestamp": "20171223-22:19:15:858", "level": "info", "message": "onExtend:1514038756000 0 0 0"}
+{"timestamp": "20171223-22:19:16:156", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7154##548915##8661##16256##27398975"}
+{"timestamp": "20171223-22:19:16:157", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7154##548920##8661##16256##27400475"}
+{"timestamp": "20171223-22:19:16:171", "level": "info", "message": "calculateCaloriesWithCache totalCalories=129923"}
+{"timestamp": "20171223-22:19:16:177", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:43:719", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-22:19:57:751", "level": "info", "message": "onStandStepChanged 3732"}
+{"timestamp": "20171223-22:19:57:755", "level": "info", "message": "onExtend:1514038756000 6 0 4"}
+{"timestamp": "20171223-22:19:57:758", "level": "info", "message": "onStandStepChanged 3732"}
+{"timestamp": "20171223-22:19:57:763", "level": "info", "message": "onExtend:1514038798000 0 0 4"}
+{"timestamp": "20171223-22:19:57:775", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:19:57:776", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:19:57:776", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-22:19:57:777", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7154##548920##8661##16256##27400475"}
+{"timestamp": "20171223-22:19:57:778", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7160##548925##8661##16256##27442097"}
+{"timestamp": "20171223-22:19:57:780", "level": "info", "message": "onStandStepChanged 3732"}
+{"timestamp": "20171223-22:19:57:789", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130052"}
+{"timestamp": "20171223-22:19:57:796", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:57:796", "level": "info", "message": "REPORT : 7160 5112 153367 240"}
+{"timestamp": "20171223-22:19:57:878", "level": "info", "message": "onStandStepChanged 3732"}
+{"timestamp": "20171223-22:19:57:879", "level": "info", "message": "onExtend:1514038798000 0 0 4"}
+{"timestamp": "20171223-22:19:58:109", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130052"}
+{"timestamp": "20171223-22:19:58:112", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:58:363", "level": "info", "message": "onStandStepChanged 3735"}
+{"timestamp": "20171223-22:19:58:363", "level": "info", "message": "flushTempCacheToDB by stand"}
+{"timestamp": "20171223-22:19:58:366", "level": "info", "message": "Alarm uploadStaticsToDB totalSteps=7163Calories:153367Floor:240Distance:5112"}
+{"timestamp": "20171223-22:19:58:366", "level": "info", "message": "writeDataToDB size 327"}
+{"timestamp": "20171223-22:19:58:366", "level": "info", "message": "upLoadOneMinuteDataToEngine time=25233975,0,93,0,20002"}
+{"timestamp": "20171223-22:19:58:366", "level": "info", "message": "upLoadOneMinuteDataToEngine time=25233976,0,1,0,20002"}
+{"timestamp": "20171223-22:19:58:366", "level": "info", "message": "upLoadOneMinuteDataToEngine time=25233977,0,55,0,20002"}
+{"timestamp": "20171223-22:19:58:366", "level": "info", "message": "upLoadOneMinuteDataToEngine time=25233978,0,5,0,20002"}
+{"timestamp": "20171223-22:19:58:367", "level": "info", "message": "upLoadOneMinuteDataToEngine time=25233979,0,46,0,20002"}
+{"timestamp": "20171223-22:19:58:369", "level": "info", "message": "getBinderPackageName packageName = com.huawei.health"}
+{"timestamp": "20171223-22:19:58:370", "level": "info", "message": "getBinderPackageName packageName = com.huawei.health"}
+{"timestamp": "20171223-22:19:58:371", "level": "info", "message": "getAppContext() isAppValid health or wear, packageName = com.huawei.health"}
+{"timestamp": "20171223-22:19:58:373", "level": "info", "message": "onExtend:1514038799000 3 0 4"}
+{"timestamp": "20171223-22:19:58:374", "level": "info", "message": "getBinderPackageName packageName = com.huawei.health"}
+{"timestamp": "20171223-22:19:58:375", "level": "info", "message": "getBinderPackageName packageName = com.huawei.health"}
+{"timestamp": "20171223-22:19:58:375", "level": "info", "message": "insertHiHealthData() checkAppType  0 appID = 1"}
+{"timestamp": "20171223-22:19:58:376", "level": "info", "message": "insertHiHealthData() size = 4,app = 1,One Data Type = 40002,packageName = com.huawei.health,writeStatType = 0"}
+{"timestamp": "20171223-22:19:58:377", "level": "info", "message": "saveHealthDetailData() deviceID = 2,clientID=1,id=1"}
+{"timestamp": "20171223-22:19:58:378", "level": "info", "message": "saveStatData() type =40002,time = 1513958400000,statClient = 2,who is 1"}
+{"timestamp": "20171223-22:19:58:378", "level": "info", "message": "new date =20171223, type=40002,7163.0,old=6983.0"}
+{"timestamp": "20171223-22:19:58:379", "level": "info", "message": "saveStatData() type =40003,time = 1513958400000,statClient = 2,who is 1"}
+{"timestamp": "20171223-22:19:58:380", "level": "info", "message": "new date =20171223, type=40003,153367.0,old=210654.54000000004"}
+{"timestamp": "20171223-22:19:58:380", "level": "info", "message": "saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40003"}
+{"timestamp": "20171223-22:19:58:380", "level": "info", "message": "saveStatData() type =40005,time = 1513958400000,statClient = 2,who is 1"}
+{"timestamp": "20171223-22:19:58:381", "level": "info", "message": "new date =20171223, type=40005,240.0,old=330.0"}
+{"timestamp": "20171223-22:19:58:381", "level": "info", "message": "saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40005"}
+{"timestamp": "20171223-22:19:58:381", "level": "info", "message": "saveStatData() type =40004,time = 1513958400000,statClient = 2,who is 1"}
+{"timestamp": "20171223-22:19:58:382", "level": "info", "message": "new date =20171223, type=40004,5112.0,old=4985.0"}
+{"timestamp": "20171223-22:19:58:406", "level": "info", "message": "bulkSaveDetailHiHealthData() size = 4,totalTime = 30"}
+{"timestamp": "20171223-22:19:58:407", "level": "info", "message": "startListenerChange subscribeList = [1]"}
+{"timestamp": "20171223-22:19:58:411", "level": "info", "message": "insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT"}
+{"timestamp": "20171223-22:19:58:411", "level": "info", "message": "insertHiHealthData() end totalTime = 45"}
+{"timestamp": "20171223-22:19:58:411", "level": "info", "message": "uploadStaticsToDB() onResult  type = 4 obj=true"}
+{"timestamp": "20171223-22:19:58:411", "level": "info", "message": "uploadStaticsToDB failed message=true"}
+{"timestamp": "20171223-22:19:58:413", "level": "info", "message": "checkInsertStatus stepSum or calorieSum is enough"}
+{"timestamp": "20171223-22:19:58:413", "level": "info", "message": "getBinderPackageName packageName = com.huawei.health"}
+{"timestamp": "20171223-22:19:58:415", "level": "info", "message": "getBinderPackageName packageName = com.huawei.health"}
+{"timestamp": "20171223-22:19:58:415", "level": "info", "message": "getAppContext() isAppValid health or wear, packageName = com.huawei.health"}
+{"timestamp": "20171223-22:19:58:415", "level": "info", "message": "checkInsertStatus stepStatSum or calorieStatSum is enough"}
+{"timestamp": "20171223-22:19:58:416", "level": "info", "message": "stepSyncOrNot appSynTimes is 0, statsyncTimes is 0"}
+{"timestamp": "20171223-22:19:58:416", "level": "info", "message": "startInsertSportSync start auto sync,app is 1"}
+{"timestamp": "20171223-22:19:58:417", "level": "info", "message": "getBinderPackageName packageName = com.huawei.health"}
+{"timestamp": "20171223-22:19:58:417", "level": "info", "message": "checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0"}
+{"timestamp": "20171223-22:19:58:417", "level": "info", "message": "startInsertSportSync first 500 steps sync,do all sync"}
+{"timestamp": "20171223-22:19:58:419", "level": "info", "message": "getBinderPackageName packageName = com.huawei.health"}
+{"timestamp": "20171223-22:19:58:419", "level": "info", "message": "startSync hiSyncOption = HiSyncOption{syncAction=2, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"}
+{"timestamp": "20171223-22:19:58:419", "level": "info", "message": "insertHiHealthData() checkAppType  0 appID = 1"}
+{"timestamp": "20171223-22:19:58:419", "level": "info", "message": "insertHiHealthData() size = 20,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0"}
+{"timestamp": "20171223-22:19:58:423", "level": "info", "message": "needAutoSync autoSyncSwitch is open"}
+{"timestamp": "20171223-22:19:58:423", "level": "info", "message": "saveHealthDetailData() deviceID = 2,clientID=1,id=1"}
+{"timestamp": "20171223-22:19:58:424", "level": "info", "message": "initDataPrivacy the dataPrivacy switch is open, start push health data!"}
+{"timestamp": "20171223-22:19:58:424", "level": "info", "message": "initDataPrivacy the dataPrivacy is true"}
+{"timestamp": "20171223-22:19:58:428", "level": "info", "message": "initUserPrivacy the userPrivacy switch is open, start push user data!"}
+{"timestamp": "20171223-22:19:58:428", "level": "info", "message": "initUserPrivacy the userPrivacy is true"}
+{"timestamp": "20171223-22:19:58:428", "level": "info", "message": "ifCanSync not! no cloud version"}
+{"timestamp": "20171223-22:19:58:428", "level": "info", "message": "sendSyncFailedBroadcast"}
+{"timestamp": "20171223-22:19:58:453", "level": "info", "message": "bulkSaveDetailHiHealthData() size = 20,totalTime = 34"}
+{"timestamp": "20171223-22:19:58:466", "level": "info", "message": "new date =20171223, type=40002,6724.0,old=7163.0"}
+{"timestamp": "20171223-22:19:58:468", "level": "info", "message": "new date =20171223, type=40004,4800.935999999999,old=5112.0"}
+{"timestamp": "20171223-22:19:58:469", "level": "info", "message": "new date =20171223, type=40003,214445.88000000006,old=210654.54000000004"}
+{"timestamp": "20171223-22:19:58:471", "level": "info", "message": "new date =20171223, type=40005,330.0,old=330.0"}
+{"timestamp": "20171223-22:19:58:480", "level": "info", "message": "new date =20171223, type=40011,6314.0,old=6137.0"}
+{"timestamp": "20171223-22:19:58:481", "level": "info", "message": "new date =20171223, type=40031,4508.196000000001,old=4381.818"}
+{"timestamp": "20171223-22:19:58:482", "level": "info", "message": "new date =20171223, type=40021,135245.88,old=131454.53999999995"}
+{"timestamp": "20171223-22:19:58:494", "level": "info", "message": "new date =20171223, type=40013,410.0,old=410.0"}
+{"timestamp": "20171223-22:19:58:495", "level": "info", "message": "new date =20171223, type=40034,292.73999999999995,old=292.73999999999995"}
+{"timestamp": "20171223-22:19:58:495", "level": "info", "message": "new date =20171223, type=40024,79200.0,old=79200.0"}
+{"timestamp": "20171223-22:19:58:499", "level": "info", "message": "new date =20171223, type=40041,6720.0,old=6480.0"}
+{"timestamp": "20171223-22:19:58:501", "level": "info", "message": "new date =20171223, type=40044,420.0,old=420.0"}
+{"timestamp": "20171223-22:19:58:501", "level": "info", "message": "new date =20171223, type=40006,7140.0,old=6900.0"}
+{"timestamp": "20171223-22:19:58:502", "level": "info", "message": "saveRealTimeHealthDatasStat() size = 1,totalTime = 48"}
+{"timestamp": "20171223-22:19:58:505", "level": "info", "message": "startListenerChange subscribeList = [1]"}
+{"timestamp": "20171223-22:19:58:505", "level": "info", "message": "insertHiHealthData() end totalTime = 94"}
+{"timestamp": "20171223-22:19:58:505", "level": "info", "message": "InsertCallBack() onSuccess  type = 0 data=true"}
+{"timestamp": "20171223-22:19:58:505", "level": "info", "message": "InsertEvent success begin:25233975 end:25233979"}
+{"timestamp": "20171223-22:19:58:505", "level": "info", "message": "setWriteDBLastDataMinute=25233979"}
+{"timestamp": "20171223-22:19:58:508", "level": "info", "message": "setWriteDBLastDataMinute success"}
+{"timestamp": "20171223-22:19:58:508", "level": "info", "message": "flush2DB result success"}
+{"timestamp": "20171223-22:19:58:508", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7160##548930##8661##16256##27442416"}
+{"timestamp": "20171223-22:19:58:508", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7163##548935##8661##16256##27442827"}
+{"timestamp": "20171223-22:19:58:512", "level": "info", "message": "checkInsertStatus stepSum or calorieSum is enough"}
+{"timestamp": "20171223-22:19:58:513", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130116"}
+{"timestamp": "20171223-22:19:58:514", "level": "info", "message": "checkInsertStatus stepStatSum or calorieStatSum is enough"}
+{"timestamp": "20171223-22:19:58:514", "level": "info", "message": "stepSyncOrNot appSynTimes is 0, statsyncTimes is 0"}
+{"timestamp": "20171223-22:19:58:514", "level": "info", "message": "startInsertSportSync start auto sync,app is 1"}
+{"timestamp": "20171223-22:19:58:515", "level": "info", "message": "checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0"}
+{"timestamp": "20171223-22:19:58:515", "level": "info", "message": "startInsertSportSync first 500 steps sync,do all sync"}
+{"timestamp": "20171223-22:19:58:516", "level": "info", "message": "startSync hiSyncOption = HiSyncOption{syncAction=2, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"}
+{"timestamp": "20171223-22:19:58:517", "level": "info", "message": "needAutoSync autoSyncSwitch is open"}
+{"timestamp": "20171223-22:19:58:517", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:58:518", "level": "info", "message": "initDataPrivacy the dataPrivacy switch is open, start push health data!"}
+{"timestamp": "20171223-22:19:58:518", "level": "info", "message": "initDataPrivacy the dataPrivacy is true"}
+{"timestamp": "20171223-22:19:58:518", "level": "info", "message": "initUserPrivacy the userPrivacy switch is open, start push user data!"}
+{"timestamp": "20171223-22:19:58:518", "level": "info", "message": "initUserPrivacy the userPrivacy is true"}
+{"timestamp": "20171223-22:19:58:518", "level": "info", "message": "ifCanSync not! no cloud version"}
+{"timestamp": "20171223-22:19:58:518", "level": "info", "message": "sendSyncFailedBroadcast"}
+{"timestamp": "20171223-22:19:58:519", "level": "info", "message": "REPORT : 7163 5114 153431 240"}
+{"timestamp": "20171223-22:19:58:863", "level": "info", "message": "onStandStepChanged 3737"}
+{"timestamp": "20171223-22:19:58:872", "level": "info", "message": "onExtend:1514038799000 2 0 4"}
+{"timestamp": "20171223-22:19:59:164", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7163##548935##8661##16256##27442827"}
+{"timestamp": "20171223-22:19:59:166", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7165##548940##8661##16256##27443484"}
+{"timestamp": "20171223-22:19:59:175", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130159"}
+{"timestamp": "20171223-22:19:59:178", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:59:182", "level": "info", "message": "REPORT : 7165 5115 153474 240"}
+{"timestamp": "20171223-22:19:59:365", "level": "info", "message": "onStandStepChanged 3739"}
+{"timestamp": "20171223-22:19:59:373", "level": "info", "message": "onExtend:1514038800000 2 0 4"}
+{"timestamp": "20171223-22:19:59:667", "level": "info", "message": "getTodayTotalDetailSteps = 1514038680000##7165##548940##8661##16256##27443484"}
+{"timestamp": "20171223-22:19:59:667", "level": "info", "message": "setTodayTotalDetailSteps=1514038680000##7167##548945##8661##16256##27443986"}
+{"timestamp": "20171223-22:19:59:677", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130201"}
+{"timestamp": "20171223-22:19:59:681", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:19:59:682", "level": "info", "message": "REPORT : 7167 5117 153517 240"}
+{"timestamp": "20171223-22:19:59:862", "level": "info", "message": "onStandStepChanged 3742"}
+{"timestamp": "20171223-22:19:59:871", "level": "info", "message": "onExtend:1514038800000 3 0 4"}
+{"timestamp": "20171223-22:20:12:863", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:20:12:874", "level": "info", "message": "onExtend:1514038813000 0 0 0"}
+{"timestamp": "20171223-22:20:13:164", "level": "info", "message": "getTodayTotalDetailSteps = 1514038740000##7189##549557##8661##16256##27452491"}
+{"timestamp": "20171223-22:20:13:165", "level": "info", "message": "setTodayTotalDetailSteps=1514038740000##7189##549608##8661##16256##27457484"}
+{"timestamp": "20171223-22:20:13:180", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:20:13:184", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:20:15:873", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:20:15:885", "level": "info", "message": "onExtend:1514038816000 0 0 5"}
+{"timestamp": "20171223-22:20:16:175", "level": "info", "message": "getTodayTotalDetailSteps = 1514038740000##7189##549608##8661##16256##27457484"}
+{"timestamp": "20171223-22:20:16:175", "level": "info", "message": "setTodayTotalDetailSteps=1514038740000##7189##549659##8661##16256##27460494"}
+{"timestamp": "20171223-22:20:16:186", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:20:16:194", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:20:18:586", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-22:22:37:638", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-22:23:41:831", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-22:24:22:157", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:24:22:165", "level": "info", "message": "onExtend:1514038819000 0 0 5"}
+{"timestamp": "20171223-22:24:22:165", "level": "info", "message": "onExtend:1514038879000 0 0 5"}
+{"timestamp": "20171223-22:24:22:165", "level": "info", "message": "onExtend:1514038939000 0 0 5"}
+{"timestamp": "20171223-22:24:22:165", "level": "info", "message": "onExtend:1514038999000 0 0 5"}
+{"timestamp": "20171223-22:24:22:165", "level": "info", "message": "onExtend:1514039059000 0 0 0"}
+{"timestamp": "20171223-22:24:22:204", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:24:22:206", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:24:22:206", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-22:24:22:207", "level": "info", "message": "getTodayTotalDetailSteps = 1514038740000##7189##549659##8661##16256##27460494"}
+{"timestamp": "20171223-22:24:22:207", "level": "info", "message": "setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27706526"}
+{"timestamp": "20171223-22:24:22:208", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:24:22:214", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:24:22:215", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:24:22:215", "level": "info", "message": "REPORT : 7189 5132 153988 240"}
+{"timestamp": "20171223-22:24:22:309", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:24:22:310", "level": "info", "message": "onExtend:1514039062000 0 0 0"}
+{"timestamp": "20171223-22:24:22:344", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-22:24:22:516", "level": "info", "message": "getTodayTotalDetailSteps = 1514038980000##7189##549659##8661##16256##27706526"}
+{"timestamp": "20171223-22:24:22:516", "level": "info", "message": "setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27706835"}
+{"timestamp": "20171223-22:24:22:524", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:24:22:526", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:24:51:883", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:24:51:892", "level": "info", "message": "onExtend:1514039091000 0 0 5"}
+{"timestamp": "20171223-22:24:52:184", "level": "info", "message": "getTodayTotalDetailSteps = 1514038980000##7189##549659##8661##16256##27706835"}
+{"timestamp": "20171223-22:24:52:185", "level": "info", "message": "setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27736503"}
+{"timestamp": "20171223-22:24:52:200", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:24:52:210", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:24:53:884", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:24:53:897", "level": "info", "message": "onExtend:1514039093000 0 0 0"}
+{"timestamp": "20171223-22:24:54:185", "level": "info", "message": "getTodayTotalDetailSteps = 1514038980000##7189##549659##8661##16256##27736503"}
+{"timestamp": "20171223-22:24:54:186", "level": "info", "message": "setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27738504"}
+{"timestamp": "20171223-22:24:54:201", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:24:54:205", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:24:58:889", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:24:58:890", "level": "info", "message": "onExtend:1514039098000 0 0 5"}
+{"timestamp": "20171223-22:24:59:190", "level": "info", "message": "getTodayTotalDetailSteps = 1514038980000##7189##549659##8661##16256##27738504"}
+{"timestamp": "20171223-22:24:59:191", "level": "info", "message": "setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27743510"}
+{"timestamp": "20171223-22:24:59:206", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:24:59:210", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:28:38:344", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-22:30:12:959", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-22:30:23:988", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:30:23:993", "level": "info", "message": "onExtend:1514039112000 0 0 5"}
+{"timestamp": "20171223-22:30:23:993", "level": "info", "message": "onExtend:1514039172000 0 0 5"}
+{"timestamp": "20171223-22:30:23:993", "level": "info", "message": "onExtend:1514039232000 0 0 5"}
+{"timestamp": "20171223-22:30:23:993", "level": "info", "message": "onExtend:1514039292000 0 0 5"}
+{"timestamp": "20171223-22:30:23:993", "level": "info", "message": "onExtend:1514039352000 0 0 5"}
+{"timestamp": "20171223-22:30:23:993", "level": "info", "message": "onExtend:1514039412000 0 0 0"}
+{"timestamp": "20171223-22:30:24:129", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:30:24:132", "level": "info", "message": "onExtend:1514039424000 0 0 0"}
+{"timestamp": "20171223-22:30:24:347", "level": "info", "message": "getTodayTotalDetailSteps = 1514039340000##7189##549659##8661##16256##28068346"}
+{"timestamp": "20171223-22:30:24:348", "level": "info", "message": "setTodayTotalDetailSteps=1514039340000##7189##549659##8661##16256##28068666"}
+{"timestamp": "20171223-22:30:24:355", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:30:24:358", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:31:31:924", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:31:31:940", "level": "info", "message": "onExtend:1514039492000 0 0 5"}
+{"timestamp": "20171223-22:31:32:225", "level": "info", "message": "getTodayTotalDetailSteps = 1514039340000##7189##549659##8661##16256##28068666"}
+{"timestamp": "20171223-22:31:32:226", "level": "info", "message": "setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28136544"}
+{"timestamp": "20171223-22:31:32:241", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:31:32:246", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:31:54:515", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-22:31:59:613", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:31:59:618", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:31:59:619", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:31:59:619", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-22:31:59:620", "level": "info", "message": "onExtend:1514039515000 0 0 0"}
+{"timestamp": "20171223-22:31:59:620", "level": "info", "message": "onExtend:1514039575000 0 0 0"}
+{"timestamp": "20171223-22:31:59:620", "level": "info", "message": "getTodayTotalDetailSteps = 1514039400000##7189##549659##8661##16256##28136544"}
+{"timestamp": "20171223-22:31:59:621", "level": "info", "message": "setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28163940"}
+{"timestamp": "20171223-22:31:59:621", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:31:59:652", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:31:59:655", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:31:59:656", "level": "info", "message": "REPORT : 7189 5132 153988 240"}
+{"timestamp": "20171223-22:31:59:723", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:31:59:725", "level": "info", "message": "onExtend:1514039520000 0 0 0"}
+{"timestamp": "20171223-22:31:59:725", "level": "info", "message": "timeStamp back,extendReportTimeStamp=1514039575000"}
+{"timestamp": "20171223-22:31:59:956", "level": "info", "message": "getTodayTotalDetailSteps = 1514039400000##7189##549659##8661##16256##28163940"}
+{"timestamp": "20171223-22:31:59:957", "level": "info", "message": "setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28164276"}
+{"timestamp": "20171223-22:31:59:965", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:31:59:968", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:32:28:791", "level": "info", "message": "startTimer start autoSync"}
+{"timestamp": "20171223-22:32:28:796", "level": "info", "message": "startSync hiSyncOption = HiSyncOption{syncAction=1, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"}
+{"timestamp": "20171223-22:32:28:796", "level": "info", "message": "stepSyncOrNot appSynTimes is 0"}
+{"timestamp": "20171223-22:32:28:798", "level": "info", "message": "needAutoSync autoSyncSwitch is open"}
+{"timestamp": "20171223-22:32:28:800", "level": "info", "message": "initDataPrivacy the dataPrivacy switch is open, start push health data!"}
+{"timestamp": "20171223-22:32:28:800", "level": "info", "message": "initDataPrivacy the dataPrivacy is true"}
+{"timestamp": "20171223-22:32:28:801", "level": "info", "message": "initUserPrivacy the userPrivacy switch is open, start push user data!"}
+{"timestamp": "20171223-22:32:28:801", "level": "info", "message": "initUserPrivacy the userPrivacy is true"}
+{"timestamp": "20171223-22:32:28:801", "level": "info", "message": "ifCanSync not! no cloud version"}
+{"timestamp": "20171223-22:32:28:801", "level": "info", "message": "sendSyncFailedBroadcast"}
+{"timestamp": "20171223-22:33:10:228", "level": "info", "message": "getTodayTotalDetailSteps = 1514039400000##7189##549659##8661##16256##28164276"}
+{"timestamp": "20171223-22:33:10:229", "level": "info", "message": "setTodayTotalDetailSteps=1514039520000##7189##549659##8661##16256##28234547"}
+{"timestamp": "20171223-22:33:10:244", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:33:10:248", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:33:30:315", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-22:33:46:274", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:33:46:279", "level": "info", "message": "onExtend:1514039626000 0 0 0"}
+{"timestamp": "20171223-22:33:46:301", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:33:46:303", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:33:46:303", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-22:33:46:304", "level": "info", "message": "getTodayTotalDetailSteps = 1514039520000##7189##549659##8661##16256##28234547"}
+{"timestamp": "20171223-22:33:46:304", "level": "info", "message": "setTodayTotalDetailSteps=1514039520000##7189##549659##8661##16256##28270623"}
+{"timestamp": "20171223-22:33:46:305", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:33:46:311", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:33:46:314", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:33:46:315", "level": "info", "message": "REPORT : 7189 5132 153988 240"}
+{"timestamp": "20171223-22:33:46:405", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:33:46:406", "level": "info", "message": "onExtend:1514039626000 0 0 0"}
+{"timestamp": "20171223-22:33:46:616", "level": "info", "message": "getTodayTotalDetailSteps = 1514039520000##7189##549659##8661##16256##28270623"}
+{"timestamp": "20171223-22:33:46:616", "level": "info", "message": "setTodayTotalDetailSteps=1514039520000##7189##549659##8661##16256##28270935"}
+{"timestamp": "20171223-22:33:46:622", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:33:46:624", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:37:14:939", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:37:14:951", "level": "info", "message": "onExtend:1514039834000 0 0 5"}
+{"timestamp": "20171223-22:37:15:240", "level": "info", "message": "getTodayTotalDetailSteps = 1514039520000##7189##549659##8661##16256##28270935"}
+{"timestamp": "20171223-22:37:15:240", "level": "info", "message": "setTodayTotalDetailSteps=1514039760000##7189##549659##8661##16256##28479559"}
+{"timestamp": "20171223-22:37:15:249", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:37:15:253", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:37:37:466", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-22:38:31:368", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-22:39:25:260", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:39:25:264", "level": "info", "message": "onExtend:1514039857000 0 0 5"}
+{"timestamp": "20171223-22:39:25:265", "level": "info", "message": "onExtend:1514039917000 0 0 5"}
+{"timestamp": "20171223-22:39:25:265", "level": "info", "message": "onExtend:1514039977000 0 0 0"}
+{"timestamp": "20171223-22:39:25:300", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:39:25:301", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:39:25:301", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-22:39:25:301", "level": "info", "message": "getTodayTotalDetailSteps = 1514039760000##7189##549659##8661##16256##28479559"}
+{"timestamp": "20171223-22:39:25:302", "level": "info", "message": "setTodayTotalDetailSteps=1514039880000##7189##549659##8661##16256##28609620"}
+{"timestamp": "20171223-22:39:25:306", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:39:25:310", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:39:25:313", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:39:25:314", "level": "info", "message": "REPORT : 7189 5132 153988 240"}
+{"timestamp": "20171223-22:39:25:402", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:39:25:406", "level": "info", "message": "onExtend:1514039965000 0 0 0"}
+{"timestamp": "20171223-22:39:25:406", "level": "info", "message": "timeStamp back,extendReportTimeStamp=1514039977000"}
+{"timestamp": "20171223-22:39:25:446", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-22:39:25:614", "level": "info", "message": "getTodayTotalDetailSteps = 1514039880000##7189##549659##8661##16256##28609620"}
+{"timestamp": "20171223-22:39:25:614", "level": "info", "message": "setTodayTotalDetailSteps=1514039880000##7189##549659##8661##16256##28609933"}
+{"timestamp": "20171223-22:39:25:625", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:39:25:628", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:45:48:956", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:45:48:970", "level": "info", "message": "onExtend:1514040348000 0 0 5"}
+{"timestamp": "20171223-22:45:49:258", "level": "info", "message": "getTodayTotalDetailSteps = 1514039880000##7189##549659##8661##16256##28609933"}
+{"timestamp": "20171223-22:45:49:259", "level": "info", "message": "setTodayTotalDetailSteps=1514040240000##7189##549659##8661##16256##28993578"}
+{"timestamp": "20171223-22:45:49:273", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:45:49:278", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:45:54:954", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:45:54:974", "level": "info", "message": "onExtend:1514040354000 0 0 0"}
+{"timestamp": "20171223-22:45:55:256", "level": "info", "message": "getTodayTotalDetailSteps = 1514040240000##7189##549659##8661##16256##28993578"}
+{"timestamp": "20171223-22:45:55:257", "level": "info", "message": "setTodayTotalDetailSteps=1514040240000##7189##549659##8661##16256##28999575"}
+{"timestamp": "20171223-22:45:55:268", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:45:55:272", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:51:24:638", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-22:51:37:252", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:51:37:260", "level": "info", "message": "onExtend:1514040697000 0 0 0"}
+{"timestamp": "20171223-22:51:37:290", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:51:37:292", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:51:37:292", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-22:51:37:292", "level": "info", "message": "getTodayTotalDetailSteps = 1514040600000##7189##549659##8661##16256##29307585"}
+{"timestamp": "20171223-22:51:37:293", "level": "info", "message": "setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29341612"}
+{"timestamp": "20171223-22:51:37:295", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:51:37:302", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:51:37:306", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:51:37:307", "level": "info", "message": "REPORT : 7189 5132 153988 240"}
+{"timestamp": "20171223-22:51:37:393", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:51:37:394", "level": "info", "message": "onExtend:1514040697000 0 0 0"}
+{"timestamp": "20171223-22:51:37:608", "level": "info", "message": "getTodayTotalDetailSteps = 1514040600000##7189##549659##8661##16256##29341612"}
+{"timestamp": "20171223-22:51:37:608", "level": "info", "message": "setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29341927"}
+{"timestamp": "20171223-22:51:37:615", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:51:37:618", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:51:40:331", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:51:40:340", "level": "info", "message": "onExtend:1514040700000 0 0 0"}
+{"timestamp": "20171223-22:51:40:632", "level": "info", "message": "getTodayTotalDetailSteps = 1514040600000##7189##549659##8661##16256##29341927"}
+{"timestamp": "20171223-22:51:40:632", "level": "info", "message": "setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29344951"}
+{"timestamp": "20171223-22:51:40:641", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:51:40:644", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:51:48:980", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:51:48:993", "level": "info", "message": "onExtend:1514040708000 0 0 5"}
+{"timestamp": "20171223-22:51:49:282", "level": "info", "message": "getTodayTotalDetailSteps = 1514040600000##7189##549659##8661##16256##29344951"}
+{"timestamp": "20171223-22:51:49:283", "level": "info", "message": "setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29353602"}
+{"timestamp": "20171223-22:51:49:298", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:51:49:315", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:52:45:412", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:52:45:415", "level": "info", "message": "onExtend:1514040766000 0 0 5"}
+{"timestamp": "20171223-22:52:45:485", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:52:45:486", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:52:45:486", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-22:52:45:487", "level": "info", "message": "getTodayTotalDetailSteps = 1514040600000##7189##549659##8661##16256##29353602"}
+{"timestamp": "20171223-22:52:45:487", "level": "info", "message": "setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29409806"}
+{"timestamp": "20171223-22:52:45:487", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:52:45:494", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:52:45:497", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:52:45:498", "level": "info", "message": "REPORT : 7189 5132 153988 240"}
+{"timestamp": "20171223-22:52:45:587", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:52:45:588", "level": "info", "message": "onExtend:1514040766000 0 0 5"}
+{"timestamp": "20171223-22:52:45:800", "level": "info", "message": "getTodayTotalDetailSteps = 1514040660000##7189##549659##8661##16256##29409806"}
+{"timestamp": "20171223-22:52:45:802", "level": "info", "message": "setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29410120"}
+{"timestamp": "20171223-22:52:45:810", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:52:45:813", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:52:45:985", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:52:45:987", "level": "info", "message": "onExtend:1514040766000 0 0 0"}
+{"timestamp": "20171223-22:52:46:286", "level": "info", "message": "getTodayTotalDetailSteps = 1514040660000##7189##549659##8661##16256##29410120"}
+{"timestamp": "20171223-22:52:46:287", "level": "info", "message": "setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29410605"}
+{"timestamp": "20171223-22:52:46:296", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:52:46:301", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:52:51:987", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:52:51:993", "level": "info", "message": "onExtend:1514040772000 0 0 5"}
+{"timestamp": "20171223-22:52:52:287", "level": "info", "message": "getTodayTotalDetailSteps = 1514040660000##7189##549659##8661##16256##29410605"}
+{"timestamp": "20171223-22:52:52:288", "level": "info", "message": "setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29416607"}
+{"timestamp": "20171223-22:52:52:301", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:52:52:306", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:52:55:718", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-22:53:11:351", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-22:53:12:698", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:53:12:704", "level": "info", "message": "onExtend:1514040793000 0 0 5"}
+{"timestamp": "20171223-22:53:12:714", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:53:12:716", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:53:12:716", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-22:53:12:718", "level": "info", "message": "getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29431618"}
+{"timestamp": "20171223-22:53:12:718", "level": "info", "message": "setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29437037"}
+{"timestamp": "20171223-22:53:12:720", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:53:12:731", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:53:12:737", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:53:12:737", "level": "info", "message": "REPORT : 7189 5132 153988 240"}
+{"timestamp": "20171223-22:53:12:818", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:53:12:820", "level": "info", "message": "onExtend:1514040793000 0 0 5"}
+{"timestamp": "20171223-22:54:55:330", "level": "info", "message": "getTodayTotalDetailSteps = 1514040720000##7189##549659##8661##16256##29437358"}
+{"timestamp": "20171223-22:54:55:331", "level": "info", "message": "setTodayTotalDetailSteps=1514040780000##7189##549659##8661##16256##29539649"}
+{"timestamp": "20171223-22:54:55:346", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:54:55:361", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:55:20:126", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-22:55:55:699", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:55:55:702", "level": "info", "message": "onExtend:1514040956000 0 0 5"}
+{"timestamp": "20171223-22:55:55:730", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:55:55:733", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-22:55:55:733", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-22:55:55:734", "level": "info", "message": "getTodayTotalDetailSteps = 1514040780000##7189##549659##8661##16256##29539649"}
+{"timestamp": "20171223-22:55:55:735", "level": "info", "message": "setTodayTotalDetailSteps=1514040840000##7189##549659##8661##16256##29600053"}
+{"timestamp": "20171223-22:55:55:735", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:55:55:746", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-22:55:55:748", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-22:55:55:748", "level": "info", "message": "REPORT : 7189 5132 153988 240"}
+{"timestamp": "20171223-22:55:55:834", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-22:55:55:835", "level": "info", "message": "onExtend:1514040956000 0 0 5"}
+{"timestamp": "20171223-22:57:46:409", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-22:59:36:579", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-23:10:37:857", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-23:12:28:131", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-23:14:24:380", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-23:14:24:384", "level": "info", "message": "onExtend:1514041722000 0 0 5"}
+{"timestamp": "20171223-23:14:24:384", "level": "info", "message": "onExtend:1514041782000 0 0 5"}
+{"timestamp": "20171223-23:14:24:384", "level": "info", "message": "onExtend:1514041842000 0 0 5"}
+{"timestamp": "20171223-23:14:24:384", "level": "info", "message": "onExtend:1514041902000 0 0 5"}
+{"timestamp": "20171223-23:14:24:384", "level": "info", "message": "onExtend:1514041962000 0 0 5"}
+{"timestamp": "20171223-23:14:24:384", "level": "info", "message": "onExtend:1514042022000 0 0 5"}
+{"timestamp": "20171223-23:14:24:384", "level": "info", "message": "onExtend:1514042082000 0 0 5"}
+{"timestamp": "20171223-23:14:24:389", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-23:14:24:390", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-23:14:24:390", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-23:14:24:391", "level": "info", "message": "getTodayTotalDetailSteps = 1514041620000##7189##549659##8661##16256##30343722"}
+{"timestamp": "20171223-23:14:24:391", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7189##549659##8661##16256##30708710"}
+{"timestamp": "20171223-23:14:24:392", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-23:14:24:399", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-23:14:24:401", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:24:409", "level": "info", "message": "REPORT : 7189 5132 153988 240"}
+{"timestamp": "20171223-23:14:24:494", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-23:14:24:499", "level": "info", "message": "onExtend:1514042064000 0 0 5"}
+{"timestamp": "20171223-23:14:24:499", "level": "info", "message": "timeStamp back,extendReportTimeStamp=1514042082000"}
+{"timestamp": "20171223-23:14:24:711", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7189##549659##8661##16256##30708710"}
+{"timestamp": "20171223-23:14:24:711", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7189##549659##8661##16256##30709030"}
+{"timestamp": "20171223-23:14:24:721", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-23:14:24:724", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:25:106", "level": "info", "message": "onStandStepChanged 3761"}
+{"timestamp": "20171223-23:14:25:113", "level": "info", "message": "onExtend:1514042064000 0 0 0"}
+{"timestamp": "20171223-23:14:25:407", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7189##549659##8661##16256##30709030"}
+{"timestamp": "20171223-23:14:25:408", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7189##549659##8661##16256##30709727"}
+{"timestamp": "20171223-23:14:25:422", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130673"}
+{"timestamp": "20171223-23:14:25:434", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:42:607", "level": "info", "message": "onStandStepChanged 3763"}
+{"timestamp": "20171223-23:14:42:620", "level": "info", "message": "onExtend:1514042082000 2 0 0"}
+{"timestamp": "20171223-23:14:42:909", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7189##549659##8661##16256##30709727"}
+{"timestamp": "20171223-23:14:42:910", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7191##549659##8661##16256##30727229"}
+{"timestamp": "20171223-23:14:42:925", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130715"}
+{"timestamp": "20171223-23:14:42:930", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:42:933", "level": "info", "message": "REPORT : 7191 5134 154031 240"}
+{"timestamp": "20171223-23:14:43:108", "level": "info", "message": "onStandStepChanged 3764"}
+{"timestamp": "20171223-23:14:43:122", "level": "info", "message": "onExtend:1514042082000 1 0 4"}
+{"timestamp": "20171223-23:14:43:414", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7191##549659##8661##16256##30727229"}
+{"timestamp": "20171223-23:14:43:414", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7192##549659##8661##16256##30727733"}
+{"timestamp": "20171223-23:14:43:426", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130737"}
+{"timestamp": "20171223-23:14:43:432", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:43:434", "level": "info", "message": "REPORT : 7192 5135 154052 240"}
+{"timestamp": "20171223-23:14:43:611", "level": "info", "message": "onStandStepChanged 3765"}
+{"timestamp": "20171223-23:14:43:622", "level": "info", "message": "onExtend:1514042083000 1 0 4"}
+{"timestamp": "20171223-23:14:43:913", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7192##549659##8661##16256##30727733"}
+{"timestamp": "20171223-23:14:43:914", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7193##549659##8661##16256##30728232"}
+{"timestamp": "20171223-23:14:43:929", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130758"}
+{"timestamp": "20171223-23:14:43:934", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:43:938", "level": "info", "message": "REPORT : 7193 5135 154074 240"}
+{"timestamp": "20171223-23:14:44:108", "level": "info", "message": "onStandStepChanged 3768"}
+{"timestamp": "20171223-23:14:44:118", "level": "info", "message": "onExtend:1514042083000 3 0 4"}
+{"timestamp": "20171223-23:14:44:409", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7193##549659##8661##16256##30728232"}
+{"timestamp": "20171223-23:14:44:410", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7196##549659##8661##16256##30728728"}
+{"timestamp": "20171223-23:14:44:425", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130822"}
+{"timestamp": "20171223-23:14:44:431", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:44:437", "level": "info", "message": "REPORT : 7196 5137 154138 240"}
+{"timestamp": "20171223-23:14:44:610", "level": "info", "message": "onStandStepChanged 3770"}
+{"timestamp": "20171223-23:14:44:617", "level": "info", "message": "onExtend:1514042084000 2 0 4"}
+{"timestamp": "20171223-23:14:44:913", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7196##549659##8661##16256##30728728"}
+{"timestamp": "20171223-23:14:44:914", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7198##549659##8661##16256##30729233"}
+{"timestamp": "20171223-23:14:44:930", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130865"}
+{"timestamp": "20171223-23:14:44:946", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:44:954", "level": "info", "message": "REPORT : 7198 5139 154181 240"}
+{"timestamp": "20171223-23:14:45:108", "level": "info", "message": "onStandStepChanged 3772"}
+{"timestamp": "20171223-23:14:45:118", "level": "info", "message": "onExtend:1514042084000 2 0 4"}
+{"timestamp": "20171223-23:14:45:413", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7198##549659##8661##16256##30729233"}
+{"timestamp": "20171223-23:14:45:414", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7200##549659##8661##16256##30729733"}
+{"timestamp": "20171223-23:14:45:429", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130908"}
+{"timestamp": "20171223-23:14:45:434", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:45:438", "level": "info", "message": "REPORT : 7200 5140 154223 240"}
+{"timestamp": "20171223-23:14:45:607", "level": "info", "message": "onStandStepChanged 3774"}
+{"timestamp": "20171223-23:14:45:618", "level": "info", "message": "onExtend:1514042085000 2 0 4"}
+{"timestamp": "20171223-23:14:45:908", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7200##549659##8661##16256##30729733"}
+{"timestamp": "20171223-23:14:45:909", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7202##549659##8661##16256##30730227"}
+{"timestamp": "20171223-23:14:45:916", "level": "info", "message": "calculateCaloriesWithCache totalCalories=130951"}
+{"timestamp": "20171223-23:14:45:919", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:45:924", "level": "info", "message": "REPORT : 7202 5142 154266 240"}
+{"timestamp": "20171223-23:14:46:106", "level": "info", "message": "onStandStepChanged 3777"}
+{"timestamp": "20171223-23:14:46:115", "level": "info", "message": "onExtend:1514042085000 3 0 4"}
+{"timestamp": "20171223-23:14:46:409", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7202##549659##8661##16256##30730227"}
+{"timestamp": "20171223-23:14:46:409", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7205##549659##8661##16256##30730728"}
+{"timestamp": "20171223-23:14:46:425", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131015"}
+{"timestamp": "20171223-23:14:46:431", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:46:445", "level": "info", "message": "REPORT : 7205 5144 154331 240"}
+{"timestamp": "20171223-23:14:46:608", "level": "info", "message": "onStandStepChanged 3780"}
+{"timestamp": "20171223-23:14:46:618", "level": "info", "message": "onExtend:1514042086000 3 0 4"}
+{"timestamp": "20171223-23:14:46:912", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7205##549659##8661##16256##30730728"}
+{"timestamp": "20171223-23:14:46:914", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7208##549659##8661##16256##30731232"}
+{"timestamp": "20171223-23:14:46:928", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131079"}
+{"timestamp": "20171223-23:14:46:932", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:46:933", "level": "info", "message": "REPORT : 7208 5146 154395 240"}
+{"timestamp": "20171223-23:14:47:109", "level": "info", "message": "onStandStepChanged 3783"}
+{"timestamp": "20171223-23:14:47:118", "level": "info", "message": "onExtend:1514042086000 3 0 4"}
+{"timestamp": "20171223-23:14:47:411", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7208##549659##8661##16256##30731232"}
+{"timestamp": "20171223-23:14:47:412", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7211##549659##8661##16256##30731730"}
+{"timestamp": "20171223-23:14:47:421", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131144"}
+{"timestamp": "20171223-23:14:47:432", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:47:441", "level": "info", "message": "REPORT : 7211 5148 154459 240"}
+{"timestamp": "20171223-23:14:48:107", "level": "info", "message": "onStandStepChanged 3784"}
+{"timestamp": "20171223-23:14:48:117", "level": "info", "message": "onExtend:1514042087000 1 0 4"}
+{"timestamp": "20171223-23:14:48:409", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7211##549659##8661##16256##30731730"}
+{"timestamp": "20171223-23:14:48:410", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7212##549659##8661##16256##30732729"}
+{"timestamp": "20171223-23:14:48:418", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131165"}
+{"timestamp": "20171223-23:14:48:421", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:48:422", "level": "info", "message": "REPORT : 7212 5149 154481 240"}
+{"timestamp": "20171223-23:14:48:606", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:14:48:618", "level": "info", "message": "onExtend:1514042088000 2 0 4"}
+{"timestamp": "20171223-23:14:48:906", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7212##549659##8661##16256##30732729"}
+{"timestamp": "20171223-23:14:48:907", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7214##549659##8661##16256##30733226"}
+{"timestamp": "20171223-23:14:48:922", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:14:48:932", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:14:48:937", "level": "info", "message": "REPORT : 7214 5150 154523 240"}
+{"timestamp": "20171223-23:14:52:109", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:14:52:125", "level": "info", "message": "onExtend:1514042091000 0 0 0"}
+{"timestamp": "20171223-23:14:52:410", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7214##549659##8661##16256##30733226"}
+{"timestamp": "20171223-23:14:52:411", "level": "info", "message": "setTodayTotalDetailSteps=1514041980000##7214##549659##8661##16256##30736730"}
+{"timestamp": "20171223-23:14:52:421", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:14:52:424", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:16:23:109", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:16:23:120", "level": "info", "message": "onExtend:1514042182000 0 0 5"}
+{"timestamp": "20171223-23:16:23:410", "level": "info", "message": "getTodayTotalDetailSteps = 1514041980000##7214##549659##8661##16256##30736730"}
+{"timestamp": "20171223-23:16:23:411", "level": "info", "message": "setTodayTotalDetailSteps=1514042100000##7214##549659##8661##16256##30827730"}
+{"timestamp": "20171223-23:16:23:420", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:16:23:424", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:16:45:587", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-23:17:40:773", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:17:40:780", "level": "info", "message": "onExtend:1514042205000 0 0 5"}
+{"timestamp": "20171223-23:17:40:780", "level": "info", "message": "onExtend:1514042265000 0 0 0"}
+{"timestamp": "20171223-23:17:40:993", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-23:17:40:995", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-23:17:40:995", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-23:17:40:996", "level": "info", "message": "getTodayTotalDetailSteps = 1514042100000##7214##549659##8661##16256##30827730"}
+{"timestamp": "20171223-23:17:40:996", "level": "info", "message": "setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30905315"}
+{"timestamp": "20171223-23:17:40:997", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:17:41:100", "level": "info", "message": "onExtend:1514042261000 0 0 0"}
+{"timestamp": "20171223-23:17:41:100", "level": "info", "message": "timeStamp back,extendReportTimeStamp=1514042265000"}
+{"timestamp": "20171223-23:17:41:306", "level": "info", "message": "getTodayTotalDetailSteps = 1514042160000##7214##549659##8661##16256##30905315"}
+{"timestamp": "20171223-23:17:41:306", "level": "info", "message": "setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30905625"}
+{"timestamp": "20171223-23:17:41:309", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:17:41:310", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:17:41:344", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-23:17:41:692", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:17:41:694", "level": "info", "message": "onExtend:1514042262000 0 0 0"}
+{"timestamp": "20171223-23:17:41:716", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_OFF"}
+{"timestamp": "20171223-23:17:41:987", "level": "info", "message": "onReceive action: android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-23:17:41:989", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.SCREEN_ON"}
+{"timestamp": "20171223-23:17:41:989", "level": "info", "message": "flush sensor data"}
+{"timestamp": "20171223-23:17:41:991", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:17:41:991", "level": "info", "message": "getTodayTotalDetailSteps = 1514042160000##7214##549659##8661##16256##30905625"}
+{"timestamp": "20171223-23:17:41:991", "level": "info", "message": "setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30906310"}
+{"timestamp": "20171223-23:17:42:391", "level": "info", "message": "getTodayTotalDetailSteps = 1514042160000##7214##549659##8661##16256##30906310"}
+{"timestamp": "20171223-23:17:42:392", "level": "info", "message": "setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30906710"}
+{"timestamp": "20171223-23:17:42:397", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:17:42:401", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:19:20:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:19:20:149", "level": "info", "message": "onExtend:1514042360000 0 0 5"}
+{"timestamp": "20171223-23:19:20:439", "level": "info", "message": "getTodayTotalDetailSteps = 1514042160000##7214##549659##8661##16256##30906710"}
+{"timestamp": "20171223-23:19:20:440", "level": "info", "message": "setTodayTotalDetailSteps=1514042280000##7214##549659##8661##16256##31004759"}
+{"timestamp": "20171223-23:19:20:456", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:19:20:461", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:19:21:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:19:21:148", "level": "info", "message": "onExtend:1514042361000 0 0 0"}
+{"timestamp": "20171223-23:19:21:439", "level": "info", "message": "getTodayTotalDetailSteps = 1514042280000##7214##549659##8661##16256##31004759"}
+{"timestamp": "20171223-23:19:21:440", "level": "info", "message": "setTodayTotalDetailSteps=1514042280000##7214##549659##8661##16256##31005759"}
+{"timestamp": "20171223-23:19:21:455", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:19:21:464", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:23:15:139", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:23:15:149", "level": "info", "message": "onExtend:1514042595000 0 0 5"}
+{"timestamp": "20171223-23:23:15:441", "level": "info", "message": "getTodayTotalDetailSteps = 1514042280000##7214##549659##8661##16256##31005759"}
+{"timestamp": "20171223-23:23:15:441", "level": "info", "message": "setTodayTotalDetailSteps=1514042520000##7214##549659##8661##16256##31239760"}
+{"timestamp": "20171223-23:23:15:466", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:23:15:473", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:23:19:141", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:23:19:149", "level": "info", "message": "onExtend:1514042599000 0 0 0"}
+{"timestamp": "20171223-23:23:19:446", "level": "info", "message": "getTodayTotalDetailSteps = 1514042520000##7214##549659##8661##16256##31239760"}
+{"timestamp": "20171223-23:23:19:447", "level": "info", "message": "setTodayTotalDetailSteps=1514042520000##7214##549659##8661##16256##31243766"}
+{"timestamp": "20171223-23:23:19:463", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:23:19:467", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:23:50:452", "level": "info", "message": "processHandleBroadcastAction action:android.intent.action.TIME_TICK"}
+{"timestamp": "20171223-23:32:28:792", "level": "info", "message": "startTimer start autoSync"}
+{"timestamp": "20171223-23:32:28:794", "level": "info", "message": "startSync hiSyncOption = HiSyncOption{syncAction=1, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1"}
+{"timestamp": "20171223-23:32:28:794", "level": "info", "message": "stepSyncOrNot appSynTimes is 0"}
+{"timestamp": "20171223-23:32:28:795", "level": "info", "message": "needAutoSync autoSyncSwitch is open"}
+{"timestamp": "20171223-23:32:28:795", "level": "info", "message": "initDataPrivacy the dataPrivacy switch is open, start push health data!"}
+{"timestamp": "20171223-23:32:28:796", "level": "info", "message": "initDataPrivacy the dataPrivacy is true"}
+{"timestamp": "20171223-23:32:28:796", "level": "info", "message": "initUserPrivacy the userPrivacy switch is open, start push user data!"}
+{"timestamp": "20171223-23:32:28:796", "level": "info", "message": "initUserPrivacy the userPrivacy is true"}
+{"timestamp": "20171223-23:32:28:796", "level": "info", "message": "ifCanSync not! no cloud version"}
+{"timestamp": "20171223-23:32:28:796", "level": "info", "message": "sendSyncFailedBroadcast"}
+{"timestamp": "20171223-23:37:14:139", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:37:14:147", "level": "info", "message": "onExtend:1514043434000 0 0 5"}
+{"timestamp": "20171223-23:37:14:440", "level": "info", "message": "getTodayTotalDetailSteps = 1514042880000##7214##549659##8661##16256##31589757"}
+{"timestamp": "20171223-23:37:14:441", "level": "info", "message": "setTodayTotalDetailSteps=1514043360000##7214##549659##8661##16256##32078759"}
+{"timestamp": "20171223-23:37:14:451", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:37:14:456", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:37:16:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:37:16:149", "level": "info", "message": "onExtend:1514043436000 0 0 0"}
+{"timestamp": "20171223-23:37:16:440", "level": "info", "message": "getTodayTotalDetailSteps = 1514043360000##7214##549659##8661##16256##32078759"}
+{"timestamp": "20171223-23:37:16:441", "level": "info", "message": "setTodayTotalDetailSteps=1514043360000##7214##549659##8661##16256##32080760"}
+{"timestamp": "20171223-23:37:16:456", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:37:16:460", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:40:10:144", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:40:10:150", "level": "info", "message": "onExtend:1514043610000 0 0 5"}
+{"timestamp": "20171223-23:40:10:445", "level": "info", "message": "getTodayTotalDetailSteps = 1514043360000##7214##549659##8661##16256##32080760"}
+{"timestamp": "20171223-23:40:10:446", "level": "info", "message": "setTodayTotalDetailSteps=1514043540000##7214##549659##8661##16256##32254765"}
+{"timestamp": "20171223-23:40:10:463", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:40:10:472", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:40:14:139", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:40:14:153", "level": "info", "message": "onExtend:1514043614000 0 0 0"}
+{"timestamp": "20171223-23:40:14:440", "level": "info", "message": "getTodayTotalDetailSteps = 1514043540000##7214##549659##8661##16256##32254765"}
+{"timestamp": "20171223-23:40:14:440", "level": "info", "message": "setTodayTotalDetailSteps=1514043540000##7214##549659##8661##16256##32258759"}
+{"timestamp": "20171223-23:40:14:457", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:40:14:462", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:42:38:906", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:42:38:915", "level": "info", "message": "onExtend:1514043759000 0 0 0"}
+{"timestamp": "20171223-23:42:39:207", "level": "info", "message": "getTodayTotalDetailSteps = 1514043540000##7214##549659##8661##16256##32258759"}
+{"timestamp": "20171223-23:42:39:207", "level": "info", "message": "setTodayTotalDetailSteps=1514043660000##7214##549659##8661##16256##32403526"}
+{"timestamp": "20171223-23:42:39:221", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:42:39:225", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:46:14:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:46:14:150", "level": "info", "message": "onExtend:1514043974000 0 0 0"}
+{"timestamp": "20171223-23:46:14:439", "level": "info", "message": "getTodayTotalDetailSteps = 1514043900000##7214##549659##8661##16256##32611763"}
+{"timestamp": "20171223-23:46:14:440", "level": "info", "message": "setTodayTotalDetailSteps=1514043900000##7214##549659##8661##16256##32618758"}
+{"timestamp": "20171223-23:46:14:457", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:46:14:462", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:50:48:406", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:50:48:414", "level": "info", "message": "onExtend:1514044249000 0 0 0"}
+{"timestamp": "20171223-23:50:48:707", "level": "info", "message": "getTodayTotalDetailSteps = 1514043900000##7214##549659##8661##16256##32618758"}
+{"timestamp": "20171223-23:50:48:708", "level": "info", "message": "setTodayTotalDetailSteps=1514044140000##7214##549659##8661##16256##32893026"}
+{"timestamp": "20171223-23:50:48:718", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:50:48:722", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:52:57:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:52:57:155", "level": "info", "message": "onExtend:1514044377000 0 0 5"}
+{"timestamp": "20171223-23:52:57:444", "level": "info", "message": "getTodayTotalDetailSteps = 1514044140000##7214##549659##8661##16256##32893026"}
+{"timestamp": "20171223-23:52:57:444", "level": "info", "message": "setTodayTotalDetailSteps=1514044260000##7214##549659##8661##16256##33021763"}
+{"timestamp": "20171223-23:52:57:453", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:52:57:456", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:53:15:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:53:15:153", "level": "info", "message": "onExtend:1514044395000 0 0 5"}
+{"timestamp": "20171223-23:53:15:438", "level": "info", "message": "getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33024761"}
+{"timestamp": "20171223-23:53:15:439", "level": "info", "message": "setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33039758"}
+{"timestamp": "20171223-23:53:15:455", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:53:15:464", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:53:17:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:53:17:156", "level": "info", "message": "onExtend:1514044397000 0 0 0"}
+{"timestamp": "20171223-23:53:17:443", "level": "info", "message": "getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33039758"}
+{"timestamp": "20171223-23:53:17:444", "level": "info", "message": "setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33041763"}
+{"timestamp": "20171223-23:53:17:467", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:53:17:472", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:53:25:139", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:53:25:146", "level": "info", "message": "onExtend:1514044405000 0 0 5"}
+{"timestamp": "20171223-23:53:25:440", "level": "info", "message": "getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33041763"}
+{"timestamp": "20171223-23:53:25:441", "level": "info", "message": "setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33049759"}
+{"timestamp": "20171223-23:53:25:452", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:53:25:456", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:53:31:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:53:31:151", "level": "info", "message": "onExtend:1514044411000 0 0 0"}
+{"timestamp": "20171223-23:53:31:441", "level": "info", "message": "getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33049759"}
+{"timestamp": "20171223-23:53:31:441", "level": "info", "message": "setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33055760"}
+{"timestamp": "20171223-23:53:31:452", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:53:31:458", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:53:40:143", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:53:40:152", "level": "info", "message": "onExtend:1514044420000 0 0 5"}
+{"timestamp": "20171223-23:53:40:447", "level": "info", "message": "getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33055760"}
+{"timestamp": "20171223-23:53:40:448", "level": "info", "message": "setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33064766"}
+{"timestamp": "20171223-23:53:40:466", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:53:40:475", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:53:42:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:53:42:149", "level": "info", "message": "onExtend:1514044422000 0 0 0"}
+{"timestamp": "20171223-23:53:42:440", "level": "info", "message": "getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33064766"}
+{"timestamp": "20171223-23:53:42:440", "level": "info", "message": "setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33066759"}
+{"timestamp": "20171223-23:53:42:456", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:53:42:460", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:53:51:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:53:51:153", "level": "info", "message": "onExtend:1514044431000 0 0 5"}
+{"timestamp": "20171223-23:53:51:439", "level": "info", "message": "getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33066759"}
+{"timestamp": "20171223-23:53:51:440", "level": "info", "message": "setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33075759"}
+{"timestamp": "20171223-23:53:51:456", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:53:51:470", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:53:57:143", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:53:57:153", "level": "info", "message": "onExtend:1514044437000 0 0 0"}
+{"timestamp": "20171223-23:53:57:445", "level": "info", "message": "getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33075759"}
+{"timestamp": "20171223-23:53:57:446", "level": "info", "message": "setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33081765"}
+{"timestamp": "20171223-23:53:57:459", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:53:57:463", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:54:28:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:54:28:160", "level": "info", "message": "onExtend:1514044468000 0 0 5"}
+{"timestamp": "20171223-23:54:28:452", "level": "info", "message": "getTodayTotalDetailSteps = 1514044320000##7214##549659##8661##16256##33081765"}
+{"timestamp": "20171223-23:54:28:452", "level": "info", "message": "setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33112771"}
+{"timestamp": "20171223-23:54:28:462", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:54:28:467", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:54:29:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:54:29:149", "level": "info", "message": "onExtend:1514044469000 0 0 0"}
+{"timestamp": "20171223-23:54:29:438", "level": "info", "message": "getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33112771"}
+{"timestamp": "20171223-23:54:29:439", "level": "info", "message": "setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33113758"}
+{"timestamp": "20171223-23:54:29:456", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:54:29:459", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:54:34:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:54:34:147", "level": "info", "message": "onExtend:1514044474000 0 0 5"}
+{"timestamp": "20171223-23:54:34:439", "level": "info", "message": "getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33113758"}
+{"timestamp": "20171223-23:54:34:439", "level": "info", "message": "setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33118758"}
+{"timestamp": "20171223-23:54:34:448", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:54:34:452", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:54:35:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:54:35:147", "level": "info", "message": "onExtend:1514044475000 0 0 0"}
+{"timestamp": "20171223-23:54:35:442", "level": "info", "message": "getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33118758"}
+{"timestamp": "20171223-23:54:35:442", "level": "info", "message": "setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33119761"}
+{"timestamp": "20171223-23:54:35:460", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:54:35:465", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:54:45:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:54:45:151", "level": "info", "message": "onExtend:1514044485000 0 0 5"}
+{"timestamp": "20171223-23:54:45:448", "level": "info", "message": "getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33119761"}
+{"timestamp": "20171223-23:54:45:449", "level": "info", "message": "setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33129767"}
+{"timestamp": "20171223-23:54:45:465", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:54:45:470", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:54:47:146", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:54:47:155", "level": "info", "message": "onExtend:1514044487000 0 0 0"}
+{"timestamp": "20171223-23:54:47:453", "level": "info", "message": "getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33129767"}
+{"timestamp": "20171223-23:54:47:454", "level": "info", "message": "setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33131773"}
+{"timestamp": "20171223-23:54:47:465", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:54:47:469", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:54:54:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:54:54:163", "level": "info", "message": "onExtend:1514044494000 0 0 5"}
+{"timestamp": "20171223-23:54:54:439", "level": "info", "message": "getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33131773"}
+{"timestamp": "20171223-23:54:54:440", "level": "info", "message": "setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33138759"}
+{"timestamp": "20171223-23:54:54:448", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:54:54:451", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:54:56:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:54:56:157", "level": "info", "message": "onExtend:1514044496000 0 0 0"}
+{"timestamp": "20171223-23:54:56:451", "level": "info", "message": "getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33138759"}
+{"timestamp": "20171223-23:54:56:452", "level": "info", "message": "setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33140770"}
+{"timestamp": "20171223-23:54:56:468", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:54:56:476", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:55:24:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:55:24:150", "level": "info", "message": "onExtend:1514044524000 0 0 5"}
+{"timestamp": "20171223-23:55:24:442", "level": "info", "message": "getTodayTotalDetailSteps = 1514044380000##7214##549659##8661##16256##33140770"}
+{"timestamp": "20171223-23:55:24:443", "level": "info", "message": "setTodayTotalDetailSteps=1514044440000##7214##549659##8661##16256##33168762"}
+{"timestamp": "20171223-23:55:24:467", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:55:24:472", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:55:25:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:55:25:147", "level": "info", "message": "onExtend:1514044525000 0 0 0"}
+{"timestamp": "20171223-23:55:25:441", "level": "info", "message": "getTodayTotalDetailSteps = 1514044440000##7214##549659##8661##16256##33168762"}
+{"timestamp": "20171223-23:55:25:442", "level": "info", "message": "setTodayTotalDetailSteps=1514044440000##7214##549659##8661##16256##33169760"}
+{"timestamp": "20171223-23:55:25:456", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:55:25:460", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:56:12:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:56:12:161", "level": "info", "message": "onExtend:1514044572000 0 0 5"}
+{"timestamp": "20171223-23:56:12:448", "level": "info", "message": "getTodayTotalDetailSteps = 1514044440000##7214##549659##8661##16256##33169760"}
+{"timestamp": "20171223-23:56:12:449", "level": "info", "message": "setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33216767"}
+{"timestamp": "20171223-23:56:12:465", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:56:12:474", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:56:13:144", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:56:13:150", "level": "info", "message": "onExtend:1514044573000 0 0 0"}
+{"timestamp": "20171223-23:56:13:445", "level": "info", "message": "getTodayTotalDetailSteps = 1514044500000##7214##549659##8661##16256##33216767"}
+{"timestamp": "20171223-23:56:13:445", "level": "info", "message": "setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33217764"}
+{"timestamp": "20171223-23:56:13:454", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:56:13:457", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:56:28:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:56:28:145", "level": "info", "message": "onExtend:1514044588000 0 0 5"}
+{"timestamp": "20171223-23:56:28:443", "level": "info", "message": "getTodayTotalDetailSteps = 1514044500000##7214##549659##8661##16256##33217764"}
+{"timestamp": "20171223-23:56:28:444", "level": "info", "message": "setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33232763"}
+{"timestamp": "20171223-23:56:28:460", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:56:28:464", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:56:35:137", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:56:35:152", "level": "info", "message": "onExtend:1514044595000 0 0 0"}
+{"timestamp": "20171223-23:56:35:439", "level": "info", "message": "getTodayTotalDetailSteps = 1514044500000##7214##549659##8661##16256##33232763"}
+{"timestamp": "20171223-23:56:35:440", "level": "info", "message": "setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33239758"}
+{"timestamp": "20171223-23:56:35:460", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:56:35:467", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:57:34:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:57:34:156", "level": "info", "message": "onExtend:1514044654000 0 0 5"}
+{"timestamp": "20171223-23:57:34:439", "level": "info", "message": "getTodayTotalDetailSteps = 1514044500000##7214##549659##8661##16256##33239758"}
+{"timestamp": "20171223-23:57:34:440", "level": "info", "message": "setTodayTotalDetailSteps=1514044560000##7214##549659##8661##16256##33298759"}
+{"timestamp": "20171223-23:57:34:457", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:57:34:464", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
+{"timestamp": "20171223-23:57:42:138", "level": "info", "message": "onStandStepChanged 3786"}
+{"timestamp": "20171223-23:57:42:147", "level": "info", "message": "onExtend:1514044662000 0 0 0"}
+{"timestamp": "20171223-23:57:42:443", "level": "info", "message": "getTodayTotalDetailSteps = 1514044560000##7214##549659##8661##16256##33298759"}
+{"timestamp": "20171223-23:57:42:444", "level": "info", "message": "setTodayTotalDetailSteps=1514044560000##7214##549659##8661##16256##33306763"}
+{"timestamp": "20171223-23:57:42:464", "level": "info", "message": "calculateCaloriesWithCache totalCalories=131208"}
+{"timestamp": "20171223-23:57:42:470", "level": "info", "message": "calculateAltitudeWithCache totalAltitude=240"}
