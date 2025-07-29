@@ -167,5 +167,5 @@ Feel free to fork and raise a PR.
 ## 📬 Contact
 
 Feel free to connect for ideas, issues or collaborations:
-- Maintainer: [@beyind.sahil](https://instagram.com/beyind.sahil)
-- Email: `yourname@domain.com` (Replace with your real contact)
+- Maintainer: [@mrsahiljaiswal](https://linkedin.com/in/mrsahiljaiswal)
+- Email: `sahiljaiswal757@gmail.com` (Replace with your real contact)
